@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/Video/ID/video'))
+WebUI.click(findTestObject('Object Repository/Beranda/Video/ID/video'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Video/ID/video'))
+WebUI.doubleClick(findTestObject('Object Repository/Beranda/Video/ID/video'))
 
-WebUI.click(findTestObject('Object Repository/Video/ID/video'))
+WebUI.click(findTestObject('Object Repository/Beranda/Video/ID/video'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Video/ID/video'))
+WebUI.doubleClick(findTestObject('Object Repository/Beranda/Video/ID/video'))
 

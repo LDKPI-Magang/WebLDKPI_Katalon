@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Berita 15Jakarta - 13 Juli 2023JAKARTA,_8eb56d</name>
+   <tag></tag>
+   <elementGuidId>c5d85027-60dd-4fb8-84ff-1f61b906329a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>81979a11-7468-4130-899c-1cb7ec024122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card</value>
+      <webElementGuid>a117107e-d220-4838-949a-0ee99da4b70f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berita 15Jakarta - 13 Juli 2023JAKARTA, KOMPAS.com – Kasus terkait pemimpin Pondok Pesantren (Ponpes) Al Zaytun, Panji Gumilang memasuki babak baru. Setelah Panji dilaporkan terkait...</value>
+      <webElementGuid>a5ec58f4-5a72-4d3c-a5a5-6b43daa652ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid news px-3&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-7 col-lg-3 mb-3&quot;]/a[1]/div[@class=&quot;card&quot;]</value>
+      <webElementGuid>4a827e37-6f22-4d83-8c65-fff159278110</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div[2]/a/div</value>
+      <webElementGuid>c76b7801-3ba7-4e46-81e2-05c028e97d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAKARTA, KOMPAS.com'])[1]/following::div[2]</value>
+      <webElementGuid>b470520b-e809-493d-85e2-0f026499c9db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita 16'])[3]/following::div[4]</value>
+      <webElementGuid>325dd0ea-2745-46ed-866b-b85192cbff64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div</value>
+      <webElementGuid>a15897af-27a7-424c-8a34-49bc595e876c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Berita 15Jakarta - 13 Juli 2023JAKARTA, KOMPAS.com – Kasus terkait pemimpin Pondok Pesantren (Ponpes) Al Zaytun, Panji Gumilang memasuki babak baru. Setelah Panji dilaporkan terkait...' or . = 'Berita 15Jakarta - 13 Juli 2023JAKARTA, KOMPAS.com – Kasus terkait pemimpin Pondok Pesantren (Ponpes) Al Zaytun, Panji Gumilang memasuki babak baru. Setelah Panji dilaporkan terkait...')]</value>
+      <webElementGuid>5bb6c0e2-737b-4151-b08e-6c19a1e0a0eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

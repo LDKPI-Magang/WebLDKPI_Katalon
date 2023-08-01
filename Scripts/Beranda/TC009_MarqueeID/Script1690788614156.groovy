@@ -23,10 +23,10 @@ WebUI.navigateToUrl('http://localhost:3000/')
 
 WebUI.switchToWindowTitle('React App')
 
-WebUI.click(findTestObject('Object Repository/Marquee/ID/a_LDKPI Meraih Opini Wajar Tanpa Pengecualian'))
+WebUI.click(findTestObject('Object Repository/Beranda/Marquee/ID/a_LDKPI Meraih Opini Wajar Tanpa Pengecualian'))
 
 WebUI.switchToWindowTitle('React App')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Marquee/ID/a_LDKPI Menentang Keras Segala Bentuk Pembe_279bcb'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/Marquee/ID/a_LDKPI Menentang Keras Segala Bentuk Pembe_279bcb'), 
     0)
 

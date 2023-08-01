@@ -21,13 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/CarouselHomeID/span_'))
+WebUI.click(findTestObject('Object Repository/Beranda/CarouselHomeID/span_'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/CarouselHomeID/span_'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/CarouselHomeID/span_'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/CarouselHomeID/span__1'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/CarouselHomeID/span__1'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/CarouselHomeID/span__1'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/CarouselHomeID/span__1'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/CarouselHomeID/span__1'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/CarouselHomeID/span__1'), 0)
 

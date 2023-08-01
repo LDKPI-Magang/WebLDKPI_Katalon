@@ -21,19 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/OwlHome/ID/button_Direktorat Jenderal Perbendaharaan_owl-prev'))
+WebUI.click(findTestObject('Object Repository/Beranda/OwlHome/ID/button_Direktorat Jenderal Perbendaharaan_owl-prev'))
 
-WebUI.click(findTestObject('Object Repository/OwlHome/ID/i_Direktorat Jenderal Perbendaharaan_fa fa-_0ff10a'))
-
-WebUI.switchToWindowTitle('React App')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/OwlHome/ID/span_Direktorat Jenderal Pajak'), 0)
+WebUI.click(findTestObject('Object Repository/Beranda/OwlHome/ID/i_Direktorat Jenderal Perbendaharaan_fa fa-_0ff10a'))
 
 WebUI.switchToWindowTitle('React App')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/OwlHome/ID/div_Direktorat Jenderal Anggaran'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/OwlHome/ID/span_Direktorat Jenderal Pajak'), 0)
 
 WebUI.switchToWindowTitle('React App')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/OwlHome/ID/div_Inspektorat Jenderal'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/OwlHome/ID/div_Direktorat Jenderal Anggaran'), 0)
+
+WebUI.switchToWindowTitle('React App')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/OwlHome/ID/div_Inspektorat Jenderal'), 0)
 

@@ -21,40 +21,32 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/Laporan/Page_React App/img_YOUTUBE_button-image'))
+WebUI.switchToWindowTitle('React App')
 
-WebUI.switchToWindowTitle('Kementerian Keuangan Republik Indonesia')
+WebUI.click(findTestObject('Object Repository/Beranda/Laporan/Page_React App/img_YOUTUBE_button-image'))
 
-WebUI.click(findTestObject('Object Repository/Laporan/Page_Kementerian Keuangan Republik Indonesia/h1_ORI023'))
+WebUI.verifyElementPresent(findTestObject('Beranda/Laporan/Page_Kementerian Keuangan Republik Indonesia/h3_Berita Terbaru'), 0)
 
 WebUI.switchToWindowTitle('React App')
 
-WebUI.click(findTestObject('Object Repository/Laporan/Page_React App/img_YOUTUBE_button-image_1'))
+WebUI.click(findTestObject('Object Repository/Beranda/Laporan/Page_React App/img_YOUTUBE_button-image_1'))
 
-WebUI.switchToWindowTitle('Home Page - Whistleblowing System')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Laporan/Page_Home Page - Whistleblowing System/h1_Selamat datang di Whistleblowing System'), 
+WebUI.verifyElementPresent(findTestObject('Beranda/Laporan/Page_Home Page - Whistleblowing System/h1_Selamat datang di Whistleblowing System'), 
     0)
 
 WebUI.switchToWindowTitle('React App')
 
-WebUI.click(findTestObject('Object Repository/Laporan/Page_React App/img_YOUTUBE_button-image_1_2'))
+WebUI.click(findTestObject('Object Repository/Beranda/Laporan/Page_React App/img_YOUTUBE_button-image_1_2'))
 
-WebUI.switchToWindowTitle('Kalkulator Kurs')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Laporan/Page_Kalkulator Kurs/img_Peta Situs_onetidHeadbnnr0'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Beranda/Laporan/Page_Kalkulator Kurs/h2_Kalkulator Kurs'), 0)
 
 WebUI.switchToWindowTitle('React App')
 
-WebUI.click(findTestObject('Object Repository/Laporan/Page_React App/img_YOUTUBE_button-image_1_2_3'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Laporan/Page_LAPOR - Layanan Aspirasi dan Pengaduan_5c85b6/div_Layanan Aspirasi dan Pengaduan Online Rakyat'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Beranda/Laporan/Page_React App/img_YOUTUBE_button-image_1_2_3'))
 
 WebUI.switchToWindowTitle('React App')
 
-WebUI.click(findTestObject('Object Repository/Laporan/Page_React App/img_YOUTUBE_button-image_1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/Beranda/Laporan/Page_React App/img_YOUTUBE_button-image_1_2_3_4'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Laporan/Page_SAPA DJPPR/img_Masuk_sapa'), 0)
+WebUI.verifyElementPresent(findTestObject('Beranda/Laporan/Page_SAPA DJPPR/p_Kami Hadir Untuk Menyapa'), 0)
 

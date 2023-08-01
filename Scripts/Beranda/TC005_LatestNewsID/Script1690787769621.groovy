@@ -21,6 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/LatestNewsID/Page_React App/p_JAKARTA, KOMPAS.com  Kasus terkait pemimp_dcae05'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/LatestNewsID/Page_React App/p_JAKARTA, KOMPAS.com  Kasus terkait pemimp_dcae05'), 
     0)
 

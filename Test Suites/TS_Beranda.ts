@@ -12,42 +12,42 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>d7cdb1e9-42ef-4102-a444-a03617c59643</testSuiteGuid>
    <testCaseLink>
-      <guid>f764cff9-2d3e-4f1c-90fe-56d886b3d22b</guid>
+      <guid>605704ca-73e0-473b-8fdb-2857619b6db8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Beranda/TC003_CaroselHomeID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>17f08bef-6c2b-45fb-a96a-58e5cc0a1d95</guid>
+      <guid>6ae712c4-3edd-42fb-9d7d-51b5ec157a7c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Beranda/TC005_LatestNewsID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>24994f97-c333-42bd-b237-d1bedc7dc2ba</guid>
+      <guid>654d30ef-f5ec-45fd-9eea-cbf83d55cb3c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Beranda/TC007_VideoID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0dcc49da-1d01-4372-9cba-2151ce0b79e0</guid>
+      <guid>c682c407-b12f-4b9c-b44c-76661159fcc4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Beranda/TC009_MarqueeID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b3a08187-e52a-42b3-8d7f-c9e80b62deaf</guid>
+      <guid>3d27f8b8-ad2d-4a02-b80a-2925f55221bd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Beranda/TC011_OwlHomeID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ca329bf4-a0f6-489b-898e-f3dee8f4bf8b</guid>
+      <guid>fb5f6c8a-4698-4a72-a8a7-7bddf1d3478a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Beranda/TC013_LaporanID</testCaseId>

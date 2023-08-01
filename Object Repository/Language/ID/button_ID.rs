@@ -6,12 +6,12 @@
    <elementGuidId>0db80d0c-ceb1-4a8f-bb12-82a375014144</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div[2]/div/div/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn-language.btn.btn-primary.mr-2.btn-no-bg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

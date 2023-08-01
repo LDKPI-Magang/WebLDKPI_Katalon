@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Berita 16Jakarta - 13 Juli 2023</name>
+   <tag></tag>
+   <elementGuidId>57a3cf40-2cfc-4e99-b3bc-95d3d63aa11d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div[4]/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c83c1cb4-44ee-413a-b5f8-eb7931504658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>image-container</value>
+      <webElementGuid>718a7520-6a8d-4312-a178-79c8734f6b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berita 16Jakarta - 13 Juli 2023</value>
+      <webElementGuid>cf390007-6bd5-4c62-89cd-65efb86854d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;owl-carousel owl-theme-news owl-loaded owl-drag&quot;]/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/div[@class=&quot;square-news&quot;]/a[1]/div[@class=&quot;image-container&quot;]</value>
+      <webElementGuid>3f3515ec-5461-4747-83c4-eca2a43d9e13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div[4]/div/a/div</value>
+      <webElementGuid>5ff5da20-b7c1-405c-b287-e58ec345c3d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jakarta - 13 Juli 2023'])[3]/following::div[3]</value>
+      <webElementGuid>c3a32017-0380-442e-bfea-bd183345db0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita 11'])[1]/following::div[3]</value>
+      <webElementGuid>0898e441-9429-4d2f-b114-d60454f07118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a/div</value>
+      <webElementGuid>029e5940-2960-44c4-b670-0d8953eb6659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Berita 16Jakarta - 13 Juli 2023' or . = 'Berita 16Jakarta - 13 Juli 2023')]</value>
+      <webElementGuid>f61cb96c-465a-4d63-8312-c90a6fb9bb0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
