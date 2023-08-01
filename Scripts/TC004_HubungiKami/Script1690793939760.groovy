@@ -23,5 +23,6 @@ WebUI.navigateToUrl('http://localhost:3000/')
 
 WebUI.click(findTestObject('Object Repository/HubungiKami/Page_React App/span_Hubungi Kami'))
 
-WebUI.click(findTestObject('Object Repository/HubungiKami/Page_React App/strong_LEMBAGA DANA KERJA SAMA PEMBANGUNAN _99bee9'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/HubungiKami/Page_React App/strong_LEMBAGA DANA KERJA SAMA PEMBANGUNAN _99bee9'), 
+    0)
 
