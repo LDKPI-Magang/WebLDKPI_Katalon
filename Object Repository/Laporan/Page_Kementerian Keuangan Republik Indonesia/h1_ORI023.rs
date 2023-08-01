@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_ORI023</name>
+   <tag></tag>
+   <elementGuidId>80797ba6-0a26-4d46-8cca-4f8959c7ac05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.kem-home-banner-box__title.tw-text-title1.tw-text-white.tw-mb-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-ngb-slide-0']/div[2]/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>56e63166-ca2c-4e11-810a-8969cf2ecddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kem-home-banner-box__title tw-text-title1 tw-text-white tw-mb-3</value>
+      <webElementGuid>eb4f3745-9fab-4314-bdc2-287089af5718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> #ORI023 </value>
+      <webElementGuid>3364727c-cef7-46f1-936e-bf16db5947fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-ngb-slide-0&quot;)/div[@class=&quot;container-xl carousel-caption tw-hidden lg:tw-block&quot;]/div[@class=&quot;kem-home-baner-box&quot;]/h1[@class=&quot;kem-home-banner-box__title tw-text-title1 tw-text-white tw-mb-3&quot;]</value>
+      <webElementGuid>bd3836a2-8e2c-4222-a63f-7850360ce385</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-ngb-slide-0']/div[2]/div/h1</value>
+      <webElementGuid>1fea2da9-190f-4b1b-a054-a4d5bb32e61e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slide 1 of 6'])[1]/following::h1[1]</value>
+      <webElementGuid>327bc9b4-015a-4144-ba3c-00087bdbcc3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/following::h1[1]</value>
+      <webElementGuid>cf30a498-8e25-409f-b83a-73b0194daa4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='baca selengkapnya'])[1]/preceding::h1[1]</value>
+      <webElementGuid>24a515a7-aac5-4b7f-9353-326c9e29a1d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::h1[1]</value>
+      <webElementGuid>1294e3c7-caf6-4f37-85f3-f0bbdd058296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='#ORI023']/parent::*</value>
+      <webElementGuid>712f5f60-0d35-43f4-86e2-2488bdb4c9aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>394689ba-ff55-464b-ab72-7e835394ea5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = ' #ORI023 ' or . = ' #ORI023 ')]</value>
+      <webElementGuid>62a4225e-8145-40fb-a7c1-9fc1bb1f008d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

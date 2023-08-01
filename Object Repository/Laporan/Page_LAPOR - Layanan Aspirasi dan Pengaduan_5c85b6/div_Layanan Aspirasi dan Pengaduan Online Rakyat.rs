@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Layanan Aspirasi dan Pengaduan Online Rakyat</name>
+   <tag></tag>
+   <elementGuidId>b6641cb6-b466-43e3-82f7-f4fe8ad61205</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='hero']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>db8aaf9f-f93c-4026-9df8-06bcb1a58e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>93495570-94e9-47ad-9caa-aa44ab744b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Layanan Aspirasi dan Pengaduan Online Rakyat</value>
+      <webElementGuid>e2d03334-9981-48c9-b591-7705639c9a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-home pd-t-0&quot;]/section[@id=&quot;hero&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;block block-aspiration&quot;]/div[@class=&quot;h2&quot;]</value>
+      <webElementGuid>706ed786-5c1b-46a7-8a75-62ba1f99ab1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='hero']/div/div/div</value>
+      <webElementGuid>845b42c9-6ed9-4430-a87f-9321bba8ecf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[3]</value>
+      <webElementGuid>44166bc1-845f-4b49-a460-ef1306559f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Statistik'])[2]/following::div[4]</value>
+      <webElementGuid>e37654d8-97f4-4b46-a277-74d82522f66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sampaikan Laporan Anda'])[1]/preceding::div[1]</value>
+      <webElementGuid>52ec1565-5979-40f4-bba1-7612eed21574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Klasifikasi Laporan'])[1]/preceding::div[2]</value>
+      <webElementGuid>c4b4c10f-bda4-4eca-8984-83e0516b110a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Layanan Aspirasi dan Pengaduan Online Rakyat']/parent::*</value>
+      <webElementGuid>7d00c515-e1b9-4016-8d60-1992d0e4f305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div</value>
+      <webElementGuid>41df4fad-00c9-4bc1-951a-27add2d592e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Layanan Aspirasi dan Pengaduan Online Rakyat' or . = 'Layanan Aspirasi dan Pengaduan Online Rakyat')]</value>
+      <webElementGuid>0a645108-2226-4253-afd0-7570b3abd8a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
