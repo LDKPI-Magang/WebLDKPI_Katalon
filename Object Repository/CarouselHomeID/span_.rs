@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>480f1614-83fd-4f36-94a3-6587bb3b71b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/a[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.carousel-control-next > span.carousel-arrow.carousel-arrow-home</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9ad4d654-d5b4-4393-9c0a-8fcd7e92cb94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>carousel-arrow carousel-arrow-home</value>
+      <webElementGuid>adad562d-f432-44da-976c-a438040e9be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>›</value>
+      <webElementGuid>41ab9e1a-ac78-4192-9bd7-ae96375fe680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex justify-content-center&quot;]/div[@class=&quot;content-carousel-home&quot;]/div[@class=&quot;carousel-container-home carousel slide&quot;]/a[@class=&quot;carousel-control-next&quot;]/span[@class=&quot;carousel-arrow carousel-arrow-home&quot;]</value>
+      <webElementGuid>76f804d3-e5c5-455c-8378-2afef5529493</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/a[2]/span</value>
+      <webElementGuid>5da12f39-ac7a-4078-aece-0093823b9537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::span[1]</value>
+      <webElementGuid>a9f23912-317e-41a3-94a3-19ceaba98fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/following::span[2]</value>
+      <webElementGuid>0a3a335c-227e-463d-8e3c-bd01e74aa367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::span[1]</value>
+      <webElementGuid>656d7aff-e3c5-4f0e-b7fa-58b69ad91c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita Terbaru'])[1]/preceding::span[2]</value>
+      <webElementGuid>898a2e50-d2cd-41c7-b631-766613d78a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='›']/parent::*</value>
+      <webElementGuid>408c8eea-03a3-4cad-8685-793678ab52f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>a8c2b221-d8e7-4e5d-92b8-ae1c564b947a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '›' or . = '›')]</value>
+      <webElementGuid>c0e37391-4f08-48bd-982c-0f52efaeaf9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

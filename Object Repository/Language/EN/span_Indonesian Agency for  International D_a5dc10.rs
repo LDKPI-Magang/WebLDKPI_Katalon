@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Indonesian Agency for  International D_a5dc10</name>
+   <tag></tag>
+   <elementGuidId>d17395a5-cf54-49c8-9e23-a37004ad9af7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7170df5a-0463-4530-88b4-6da6241848c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Indonesian Agency for  International Development (Indonesian AID)</value>
+      <webElementGuid>df8fd66e-0af7-4482-aa09-ccdba035c87f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sticky-top&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-end align-items-center py-2 px-3&quot;]/div[@class=&quot;col-lg py-1&quot;]/span[1]</value>
+      <webElementGuid>c2d1bd84-232d-4fd5-9442-8aa239a8428d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/span</value>
+      <webElementGuid>b65e06d5-4480-4a7d-a365-e790ec703b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::span[1]</value>
+      <webElementGuid>a378bb5b-16dd-4b55-b8d7-a38f11e18c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/preceding::span[1]</value>
+      <webElementGuid>08bddd41-d54f-4198-8236-1acb8086ce1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Indonesian Agency for']/parent::*</value>
+      <webElementGuid>30392864-8ec0-4e5a-913d-044a3c5e821c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>b13a732d-efb6-4b49-9fe0-84ba935927d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Indonesian Agency for  International Development (Indonesian AID)' or . = 'Indonesian Agency for  International Development (Indonesian AID)')]</value>
+      <webElementGuid>e73f385d-bf3f-4110-af9d-234c4fb66350</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

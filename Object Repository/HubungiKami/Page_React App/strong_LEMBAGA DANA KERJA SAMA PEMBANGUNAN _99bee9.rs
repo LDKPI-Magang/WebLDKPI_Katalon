@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_LEMBAGA DANA KERJA SAMA PEMBANGUNAN _99bee9</name>
+   <tag></tag>
+   <elementGuidId>914e7627-7c3e-47ef-8954-72512fc971fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div/p/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>c4c7d009-df73-437a-bd57-b7f5422dd16d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LEMBAGA DANA KERJA SAMA PEMBANGUNAN INTERNASIONAL </value>
+      <webElementGuid>4733d2a1-2a6d-414e-a287-78d34b1356f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[2]/div[@class=&quot;py-5 px-5 my-5&quot;]/div[1]/div[@class=&quot;rich-text-container&quot;]/p[1]/strong[1]</value>
+      <webElementGuid>15e50ad6-6723-43e4-8313-472925098258</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/p/strong</value>
+      <webElementGuid>0d7d7c8a-bf7a-49b2-941f-0563c4644600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[2]/following::strong[1]</value>
+      <webElementGuid>de541b2e-0471-48af-bbc6-89522dd4069e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/following::strong[1]</value>
+      <webElementGuid>2f328921-78e7-4db3-a559-e22dab71efc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[3]/preceding::strong[1]</value>
+      <webElementGuid>40d9f258-24bf-4df5-8bc5-079ceb2cf44d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prasyarat'])[1]/preceding::strong[1]</value>
+      <webElementGuid>fb17872c-ee59-471c-b33c-f0d123d240f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>32806cc8-bd34-4b6c-bd72-60a79e7ef3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'LEMBAGA DANA KERJA SAMA PEMBANGUNAN INTERNASIONAL ' or . = 'LEMBAGA DANA KERJA SAMA PEMBANGUNAN INTERNASIONAL ')]</value>
+      <webElementGuid>d0b26dfe-b518-43dd-9f0b-b7a5d3430b91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

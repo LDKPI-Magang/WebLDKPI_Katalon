@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_EN</name>
+   <tag></tag>
+   <elementGuidId>88602188-3b34-4c85-81a5-f4fc7a28d667</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-language.btn.btn-primary.mr-2.btn-no-bg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9860b121-9772-42c1-8612-a786da6e03fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-language btn btn-primary mr-2 btn-no-bg</value>
+      <webElementGuid>3c444b9d-bf09-4ec1-a162-33a6645b9a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EN</value>
+      <webElementGuid>7329b805-0bb5-4ce3-b05f-6a59d0d4090b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sticky-top&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-end align-items-center py-2 px-3&quot;]/div[@class=&quot;col-lg-auto py-2 align-items-center&quot;]/div[@class=&quot;mr-2&quot;]/div[@class=&quot;language-switcher&quot;]/button[@class=&quot;btn-language btn btn-primary mr-2 btn-no-bg&quot;]</value>
+      <webElementGuid>309f2262-4c4f-4bf9-9396-ead2c3dfdf9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>69ddc5b6-586f-4ec4-bcec-2e1ee538998d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::button[1]</value>
+      <webElementGuid>f7fa8118-c539-4c96-8129-4ca4231b2a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lembaga Dana Kerja SamaPembangunan Internasional'])[1]/following::button[2]</value>
+      <webElementGuid>636bdeb2-9292-4d99-abe9-d269aa327dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::button[1]</value>
+      <webElementGuid>27987599-5e05-43c1-a439-a7575a9bccdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EN']/parent::*</value>
+      <webElementGuid>90044a8b-949f-49c7-8fc2-af5ad841da4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>4982eb40-717c-4e61-aa68-b8910c23ae69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'EN' or . = 'EN')]</value>
+      <webElementGuid>ee958997-7d0e-4446-8426-ba0b8cc3b5eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

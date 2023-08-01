@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lembaga Dana Kerja SamaPembangunan Int_6a0ab2</name>
+   <tag></tag>
+   <elementGuidId>8e90f0f7-88a2-4211-b163-c9926848ad76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>66701758-046a-48ea-a649-3086286aea1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lembaga Dana Kerja SamaPembangunan Internasional</value>
+      <webElementGuid>456d9d39-eb48-473a-80b8-61f26ede8695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sticky-top&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-end align-items-center py-2 px-3&quot;]/div[@class=&quot;col-lg py-1&quot;]/span[1]</value>
+      <webElementGuid>81d6175b-2bd7-470b-861d-fb55c94fc696</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/span</value>
+      <webElementGuid>13b01574-2752-4178-ab96-8c27b66fdd07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::span[1]</value>
+      <webElementGuid>a07887ea-6eef-4d40-b0f0-d27174ba9cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/preceding::span[1]</value>
+      <webElementGuid>88776a0c-9387-4993-9775-4e87c203a7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lembaga Dana Kerja Sama']/parent::*</value>
+      <webElementGuid>1e619999-ff46-4c55-bee5-be8cefe6f9f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>9db1ea17-b117-4334-aec5-0c752e3fa1b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lembaga Dana Kerja SamaPembangunan Internasional' or . = 'Lembaga Dana Kerja SamaPembangunan Internasional')]</value>
+      <webElementGuid>78ae72fc-e40a-468c-a53c-cac817f93837</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
