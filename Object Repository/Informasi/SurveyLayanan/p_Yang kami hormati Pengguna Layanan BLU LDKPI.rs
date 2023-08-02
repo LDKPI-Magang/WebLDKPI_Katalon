@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Yang kami hormati Pengguna Layanan BLU LDKPI</name>
+   <tag></tag>
+   <elementGuidId>901f5a2e-7172-4882-a49e-fa2c98c0951d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6e3fb38b-825d-43ce-a415-ba0b098807a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yang kami hormati Pengguna Layanan BLU LDKPI, Lembaga Dana Kerja Sama Pembangunan Internasional (LDKPI) merupakan Badan Layanan Umum (BLU) yang dibentuk oleh Pemerintah dan diberikan kewenangan untuk mengelola dana endowment fund dalam menjalankan tugas dan fungsinya memberikan hibah kepada pemerintah asing / lembaga asing. Dalam rangka peningkatan kualitas Layanan Badan Layanan Umum (BLU), kami melaksanakan survei kepuasan pengguna layanan BLU dalam rangka mengukur kinerja layanan yang diberikan BLU kepada masyarakat. Survei tingkat kepuasan pengguna layanan ini penting dilakukan untuk mengidentifikasi aspek-aspek layanan yang membutuhkan perbaikan/peningkatan, yang diharapkan dapat menghasilkan outcome yang lebih baik. Selain itu, hasil survei akan menjadi dasar pertimbangan bagi pimpinan Kementerian Keuangan untuk menentukan kebijakan pengembangan BLU pada tahap selanjutnya.</value>
+      <webElementGuid>95471313-9598-4698-83d7-d065c19616df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[2]/div[@class=&quot;px-5 pt-5&quot;]/div[1]/div[@class=&quot;rich-text-container&quot;]/p[1]</value>
+      <webElementGuid>210d9937-e2e5-46de-935f-cbbcc874a82a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/p</value>
+      <webElementGuid>8ef02de3-9e0c-40d1-a08f-8a5438554892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Layanan'])[3]/following::p[1]</value>
+      <webElementGuid>0f774b5e-a493-4605-b51a-884e9063ccee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Layanan'])[2]/following::p[1]</value>
+      <webElementGuid>8cafd377-61cd-4268-8e71-a158c8c6bb7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link Survey :'])[1]/preceding::p[2]</value>
+      <webElementGuid>02d31f15-6087-4bf6-bea2-cd148ad98817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berikut hasil SKPL LDKPI Tahun 2022'])[1]/preceding::p[4]</value>
+      <webElementGuid>29e360ae-60d1-4a09-9413-f443676f3609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>ded96115-e1d4-44be-bc51-0c0dedeccb68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Yang kami hormati Pengguna Layanan BLU LDKPI, Lembaga Dana Kerja Sama Pembangunan Internasional (LDKPI) merupakan Badan Layanan Umum (BLU) yang dibentuk oleh Pemerintah dan diberikan kewenangan untuk mengelola dana endowment fund dalam menjalankan tugas dan fungsinya memberikan hibah kepada pemerintah asing / lembaga asing. Dalam rangka peningkatan kualitas Layanan Badan Layanan Umum (BLU), kami melaksanakan survei kepuasan pengguna layanan BLU dalam rangka mengukur kinerja layanan yang diberikan BLU kepada masyarakat. Survei tingkat kepuasan pengguna layanan ini penting dilakukan untuk mengidentifikasi aspek-aspek layanan yang membutuhkan perbaikan/peningkatan, yang diharapkan dapat menghasilkan outcome yang lebih baik. Selain itu, hasil survei akan menjadi dasar pertimbangan bagi pimpinan Kementerian Keuangan untuk menentukan kebijakan pengembangan BLU pada tahap selanjutnya.' or . = 'Yang kami hormati Pengguna Layanan BLU LDKPI, Lembaga Dana Kerja Sama Pembangunan Internasional (LDKPI) merupakan Badan Layanan Umum (BLU) yang dibentuk oleh Pemerintah dan diberikan kewenangan untuk mengelola dana endowment fund dalam menjalankan tugas dan fungsinya memberikan hibah kepada pemerintah asing / lembaga asing. Dalam rangka peningkatan kualitas Layanan Badan Layanan Umum (BLU), kami melaksanakan survei kepuasan pengguna layanan BLU dalam rangka mengukur kinerja layanan yang diberikan BLU kepada masyarakat. Survei tingkat kepuasan pengguna layanan ini penting dilakukan untuk mengidentifikasi aspek-aspek layanan yang membutuhkan perbaikan/peningkatan, yang diharapkan dapat menghasilkan outcome yang lebih baik. Selain itu, hasil survei akan menjadi dasar pertimbangan bagi pimpinan Kementerian Keuangan untuk menentukan kebijakan pengembangan BLU pada tahap selanjutnya.')]</value>
+      <webElementGuid>0c523145-4252-4c59-8699-80db3963723b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

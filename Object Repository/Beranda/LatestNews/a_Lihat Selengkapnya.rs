@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Selengkapnya</name>
+   <tag></tag>
+   <elementGuidId>5754d181-4b98-47f4-a0a8-dbaef43884e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.lihat-selengkapnya-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d5489e38-9b81-404b-b468-a3dfa267aaa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lihat-selengkapnya-link</value>
+      <webElementGuid>e30a95c1-ec1b-4b2b-9ba9-f8fc60949930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/berita</value>
+      <webElementGuid>4ff97621-0466-4f62-8a26-b40d15977687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Selengkapnya ›</value>
+      <webElementGuid>a1cbbfcc-4f6f-4a6a-b4d4-e1130340051e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex justify-content-center&quot;]/div[@class=&quot;container-fluid latest-news px-3&quot;]/div[@class=&quot;link-to-page px-4&quot;]/a[@class=&quot;lihat-selengkapnya-link&quot;]</value>
+      <webElementGuid>3170e7aa-8b75-4a4f-9c5c-05fac149fce0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[3]/a</value>
+      <webElementGuid>7a01b084-a8c1-4067-b317-99ff32994191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAKARTA, KOMPAS.com'])[4]/following::a[1]</value>
+      <webElementGuid>01778518-a1df-4629-bfcc-5d1dbef0da71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita 13'])[1]/following::a[1]</value>
+      <webElementGuid>b429e4c1-9ffd-4bf7-a910-9cd1bf731f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil LDKPI'])[1]/preceding::a[1]</value>
+      <webElementGuid>6b868d7c-3746-4806-97ca-0bc34a438443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Selengkapnya']/parent::*</value>
+      <webElementGuid>b5daa87d-b096-4565-8eb8-1653b89df4c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/berita')])[7]</value>
+      <webElementGuid>4b77b3ad-0de7-45aa-8a2c-0404e6065de6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/a</value>
+      <webElementGuid>4321965e-b11d-4a8a-9d70-621ffe9da1dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/berita' and (text() = 'Lihat Selengkapnya ›' or . = 'Lihat Selengkapnya ›')]</value>
+      <webElementGuid>016711ef-50af-41f6-85d0-3441d319e1a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

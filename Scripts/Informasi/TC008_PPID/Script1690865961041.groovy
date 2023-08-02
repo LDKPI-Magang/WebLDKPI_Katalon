@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:3000/')
+
+WebUI.click(findTestObject('Object Repository/Informasi/PPID/a_Informasi'))
+
+WebUI.click(findTestObject('Object Repository/Informasi/PPID/a_Layanan PPID'))
+
+WebUI.verifyElementPresent(findTestObject('Informasi/PPID/img (1)'), 0)
+
+WebUI.click(findTestObject('Object Repository/Informasi/PPID/a_Maklumat Layanan LDKPI'))
+
+WebUI.navigateToUrl('http://localhost:3000/informasi/layananPpid')
+
+WebUI.verifyElementPresent(findTestObject('Informasi/PPID/td_Maklumat Layanan LDKPI'), 0)
+

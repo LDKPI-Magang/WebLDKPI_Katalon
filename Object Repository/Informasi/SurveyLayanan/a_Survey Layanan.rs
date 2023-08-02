@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Survey Layanan</name>
+   <tag></tag>
+   <elementGuidId>aca1a89b-2d8b-46f4-b47b-0c7b06ae492e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/div[2]/div[3]/div/a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fbb45173-6965-4300-92dc-efeadcb3db25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center dropdown-item link-style  dropdown-item</value>
+      <webElementGuid>3b3b39c2-1f59-4755-9e99-629bd7048c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/informasi/surveyLayanan</value>
+      <webElementGuid>953f318e-94c3-46ef-a015-8ef149d85079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Survey Layanan</value>
+      <webElementGuid>d5231f26-37fc-4bf0-8386-35b2883a2040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sticky-top&quot;]/nav[@class=&quot;navbar d-flex justify-content-between py-3&quot;]/div[@class=&quot;nav-link-container&quot;]/div[@class=&quot;link-style nav-item show dropdown&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;d-flex align-items-center dropdown-item link-style  dropdown-item&quot;]</value>
+      <webElementGuid>32b9d28f-00a5-463f-90a0-7bfc0c5e8691</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav/div[2]/div[3]/div/a[5]</value>
+      <webElementGuid>e0d91b8c-8be8-4869-a491-834081a3e419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Survey Layanan')]</value>
+      <webElementGuid>98d05c1c-ff48-4d88-a454-7fb866686f89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publikasi'])[1]/following::a[1]</value>
+      <webElementGuid>a781e0c2-2602-4e8f-9078-a21c85993df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto'])[1]/following::a[2]</value>
+      <webElementGuid>87284592-2ddd-4132-82ba-c5212272192b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan PPID'])[1]/preceding::a[1]</value>
+      <webElementGuid>968efa5e-112c-4cb4-aceb-412ee3e57754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[2]/preceding::a[2]</value>
+      <webElementGuid>317313ae-2be9-4654-a69c-149d5c9b83d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Survey Layanan']/parent::*</value>
+      <webElementGuid>4f71718b-b57d-466e-9d6a-052aa0e67408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/informasi/surveyLayanan')]</value>
+      <webElementGuid>47feb314-9f1c-4eda-b6f4-a265de67f12e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>82d43ab4-3a9f-4e6a-ba88-d8cf0061d8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/informasi/surveyLayanan' and (text() = 'Survey Layanan' or . = 'Survey Layanan')]</value>
+      <webElementGuid>aedc08ec-438e-40b8-9589-c220ed40b6f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

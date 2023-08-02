@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Galeri</name>
+   <tag></tag>
+   <elementGuidId>e59cf82d-1253-49d3-b28e-2689379fca2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.dropdown-item.d-flex.align-items-center.dropdown-item.link-style</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/div[2]/div[3]/div/li/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>88057515-78d3-4d20-a90a-7aa03b8700f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item d-flex align-items-center dropdown-item link-style</value>
+      <webElementGuid>1ee841d9-8d33-4858-b3b0-754c7f431932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Galeri »</value>
+      <webElementGuid>489b868d-9b10-4bdd-ba73-bf80965223aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sticky-top&quot;]/nav[@class=&quot;navbar d-flex justify-content-between py-3&quot;]/div[@class=&quot;nav-link-container&quot;]/div[@class=&quot;link-style nav-item show dropdown&quot;]/div[@class=&quot;dropdown-menu show&quot;]/li[1]/button[@class=&quot;dropdown-item d-flex align-items-center dropdown-item link-style&quot;]</value>
+      <webElementGuid>ae4b0d2c-f471-4915-acb0-5ebd62abbfe7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav/div[2]/div[3]/div/li/button</value>
+      <webElementGuid>b8103c40-d1e0-40ef-87ee-1e0baa667700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peraturan'])[1]/following::button[1]</value>
+      <webElementGuid>d8fbda4f-895d-4574-b600-8cc4cc32b99f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karir'])[1]/following::button[1]</value>
+      <webElementGuid>2fb47c45-3338-4a2f-92ab-7b3b0a1fa32c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto'])[1]/preceding::button[1]</value>
+      <webElementGuid>c536d6de-e7fe-42d9-a698-55a7b480e229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publikasi'])[1]/preceding::button[1]</value>
+      <webElementGuid>e84d0807-88b3-4413-9ae3-2c5ae3f97cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Galeri']/parent::*</value>
+      <webElementGuid>5ff73cd3-df74-4cf7-a073-0333e3a160dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/button</value>
+      <webElementGuid>9dd63ccf-38ad-4483-aa03-4e6d35426aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Galeri »' or . = 'Galeri »')]</value>
+      <webElementGuid>903a445d-7ad4-49a7-8b0f-07fc33818e79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BERITA</name>
+   <tag></tag>
+   <elementGuidId>754cb20d-d5f7-4925-a276-c7a7284cbe87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-5.d-flex.flex-column.justify-content-end.align-items-start</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f779109-0c70-48cc-997c-a4fd8546caf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-5 d-flex flex-column justify-content-end align-items-start</value>
+      <webElementGuid>8a1ec299-5d85-4fb4-a31d-4c9ab68d30bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BERITA</value>
+      <webElementGuid>ca2468cf-9194-40b2-90cd-0c23f725f20c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid news px-3&quot;]/div[@class=&quot;row h-25 mb-4&quot;]/div[@class=&quot;col-5 d-flex flex-column justify-content-end align-items-start&quot;]</value>
+      <webElementGuid>ccdb3644-a7e0-4a0f-b5ae-7a04d4d3913e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div</value>
+      <webElementGuid>4b243f41-bfab-4f75-a652-a87e430baffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::div[4]</value>
+      <webElementGuid>7efbd93f-dff1-4c6b-b89f-0d751e614a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/following::div[4]</value>
+      <webElementGuid>2558df5e-db42-4f9a-96c6-17faff66a1b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita 16'])[3]/preceding::div[6]</value>
+      <webElementGuid>e7ea96c1-5d06-4923-8ee1-068da08569ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>ee07673f-fd8c-4dd7-901d-f7fdfab3f6bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BERITA' or . = 'BERITA')]</value>
+      <webElementGuid>3c234334-0e60-4d45-9bec-891efbfab598</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

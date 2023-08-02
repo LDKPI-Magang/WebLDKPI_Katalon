@@ -21,6 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/LatestNewsID/Page_React App/p_JAKARTA, KOMPAS.com  Kasus terkait pemimp_dcae05'), 
+WebUI.verifyElementPresent(findTestObject('Beranda/LatestNews/h1_Berita Terbaru (1)'), 
     0)
+
+WebUI.click(findTestObject('Object Repository/Beranda/LatestNews/div_Berita 16Jakarta - 13 Juli 2023JAKARTA,_e5f20f'))
+
+WebUI.verifyElementPresent(findTestObject('Beranda/LatestNews/strong_JAKARTA, KOMPAS.com'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Beranda/LatestNews/a_Kembali'))
+
+WebUI.click(findTestObject('Object Repository/Beranda/LatestNews/a_Beranda'))
+
+WebUI.click(findTestObject('Object Repository/Beranda/LatestNews/a_Lihat Selengkapnya'))
+
+WebUI.verifyElementPresent(findTestObject('Beranda/LatestNews/div_BERITA'), 0)
 

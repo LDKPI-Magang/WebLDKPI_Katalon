@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lembaga Kerja Sama Pembangunan Interna_9cdbb7</name>
+   <tag></tag>
+   <elementGuidId>676aa209-1b9e-497c-8859-981fafdf0c59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.footer-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/footer/div/div[2]/div[2]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a1096e40-b408-450e-a832-00dc5232958c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footer-link</value>
+      <webElementGuid>85a47a59-f03b-42ae-bc26-f6d05c9bc7b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lembaga Kerja Sama Pembangunan Internasional - LDKPI</value>
+      <webElementGuid>37806e9c-1bf6-4bbb-b2e4-71e4f5c29685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/footer[@class=&quot;footer&quot;]/div[@class=&quot;container-fluid mt-5&quot;]/div[@class=&quot;row second-row py-2&quot;]/div[@class=&quot;col-lg-6 col-md-12 text-center right-column&quot;]/div[@class=&quot;mb-3 text-start&quot;]/a[1]/span[@class=&quot;footer-link&quot;]</value>
+      <webElementGuid>cbd43971-d22a-43af-85d5-8e039cb898a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/footer/div/div[2]/div[2]/div/a/span</value>
+      <webElementGuid>f24eb8b5-6223-4827-b8d1-7f7404d62730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::span[1]</value>
+      <webElementGuid>c646773e-cd84-4d64-b40d-323ae5b21202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prasyarat'])[1]/following::span[1]</value>
+      <webElementGuid>9f439637-d63e-4981-a53f-ddb28b1a2272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='indoneisanid'])[1]/preceding::span[1]</value>
+      <webElementGuid>749c4061-a152-4429-ba76-094e16d942ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesian AID'])[1]/preceding::span[2]</value>
+      <webElementGuid>cdaf78b4-b785-48c1-87bf-c932be39cc2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lembaga Kerja Sama Pembangunan Internasional - LDKPI']/parent::*</value>
+      <webElementGuid>e58049e1-4d79-4fee-a91e-da94b8cadef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div[2]/div[2]/div/a/span</value>
+      <webElementGuid>b95ad08f-a8df-4d1d-87c7-66a263fa8071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lembaga Kerja Sama Pembangunan Internasional - LDKPI' or . = 'Lembaga Kerja Sama Pembangunan Internasional - LDKPI')]</value>
+      <webElementGuid>ae5a56a3-f4df-4034-8a26-3b1e0d7acec9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

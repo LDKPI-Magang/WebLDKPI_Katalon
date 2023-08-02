@@ -41,24 +41,3 @@ WebUI.click(findTestObject('Object Repository/Informasi/CarouselFoto/svg'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Informasi/CarouselFoto/h2_Galeri Foto (1)'), 0)
 
-WebUI.click(findTestObject('Object Repository/Informasi/Page_Lembaga Dana Kerjas Sama Pembangunan I_724398/div_25 Juni 2023Jonski HomskiIndonesia dike_6859db'))
-
-WebUI.verifyElementPresent(findTestObject('Informasi/Page_Lembaga Dana Kerjas Sama Pembangunan I_724398/p_Jonski Homski (1)'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/Informasi/Page_Lembaga Dana Kerjas Sama Pembangunan I_724398/svg_Indonesia dikenal sebagai salah satu ne_17a59c'))
-
-WebUI.navigateToUrl('http://localhost:3000/informasi/foto/jonski-homski')
-
-WebUI.click(findTestObject('Object Repository/Informasi/Page_Lembaga Dana Kerjas Sama Pembangunan I_724398/svg_Indonesia dikenal sebagai salah satu ne_0a374c'))
-
-WebUI.navigateToUrl('http://localhost:3000/informasi/foto/jonski-homski')
-
-WebUI.click(findTestObject('Object Repository/Informasi/Page_Lembaga Dana Kerjas Sama Pembangunan I_724398/svg_Indonesia dikenal sebagai salah satu ne_e8e97d'))
-
-WebUI.navigateToUrl('http://localhost:3000/informasi/foto/jonski-homski')
-
-WebUI.click(findTestObject('Object Repository/Informasi/Page_Lembaga Dana Kerjas Sama Pembangunan I_724398/svg'))
-
-WebUI.verifyElementPresent(findTestObject('Informasi/CarouselFoto/h2_Galeri Foto (1)'), 0)
-

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Pemerintah Indonesia telah secara aktif</name>
+   <tag></tag>
+   <elementGuidId>7cac870c-9d3c-4ee2-8a48-9c36857e6f74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7f05886f-c8bc-4dd6-af3b-c8e4c3f4e4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pemerintah Indonesia telah secara aktif menjalin kerja sama dengan negara lain dalam pembangunan global  sejak  Konferensi  Asia  Afrika  pada  tahun  1955.  Dalam  konferensi dimaksud Indonesia menjadi tuan rumah dan salah satu pencetus inisiatif kerja sama antar negara berkembang. Konferensi Asia Afrika merupakan titik awal kerjasama diantara negara berkembang yang saat ini dikenal dengan istilah Kerjasama Selatan-Selatan (KSS). Sejak saat itu sejumlah forum internasional banyak diselenggarakan diantaranya Conference on Technical Coorperation Among Developing Countries dihadiri oleh 138 negara dan menghasilkan Buence Area Plan of Action (BAPA) dan menjadi sejarah penting bagi pelaksanaan kerja sama teknik serta menjadi fondasi bagi tata ekonomi internasional untuk meningkatkan pembangunan ekonomi di negara berkembang pada saat itu.</value>
+      <webElementGuid>0c88c907-6823-4ec2-92e4-4cf4685a73d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;card-publication mt-2&quot;]/div[@class=&quot;card-description-pubs&quot;]/p[1]</value>
+      <webElementGuid>106ac2aa-20ad-453d-a7a5-8dd226377e44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/p</value>
+      <webElementGuid>9f9512c6-c9a6-4668-9289-7cf01bd84595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publikasi Pertama'])[1]/following::p[1]</value>
+      <webElementGuid>65c68712-d83b-4957-9550-13e64e5a63b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::p[1]</value>
+      <webElementGuid>24bfa394-cbef-4f1e-864b-afae262af93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pemerintah Indonesia telah secara aktif menjalin kerja sama dengan negara lain dalam pembangunan global  sejak  Konferensi  Asia  Afrika  pada  tahun  1955.  Dalam  konferensi dimaksud Indonesia menjadi tuan rumah dan salah satu pencetus inisiatif kerja sama antar negara berkembang. Konferensi Asia Afrika merupakan titik awal kerjasama diantara negara berkembang yang saat ini dikenal dengan istilah Kerjasama Selatan-Selatan (KSS). Sejak saat itu sejumlah forum internasional banyak diselenggarakan diantaranya']/parent::*</value>
+      <webElementGuid>1c3f7016-9b8b-4192-a64d-a74ef7dce5f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>5b9dedec-a77c-4f52-8026-36aa6db1d65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Pemerintah Indonesia telah secara aktif menjalin kerja sama dengan negara lain dalam pembangunan global  sejak  Konferensi  Asia  Afrika  pada  tahun  1955.  Dalam  konferensi dimaksud Indonesia menjadi tuan rumah dan salah satu pencetus inisiatif kerja sama antar negara berkembang. Konferensi Asia Afrika merupakan titik awal kerjasama diantara negara berkembang yang saat ini dikenal dengan istilah Kerjasama Selatan-Selatan (KSS). Sejak saat itu sejumlah forum internasional banyak diselenggarakan diantaranya Conference on Technical Coorperation Among Developing Countries dihadiri oleh 138 negara dan menghasilkan Buence Area Plan of Action (BAPA) dan menjadi sejarah penting bagi pelaksanaan kerja sama teknik serta menjadi fondasi bagi tata ekonomi internasional untuk meningkatkan pembangunan ekonomi di negara berkembang pada saat itu.' or . = 'Pemerintah Indonesia telah secara aktif menjalin kerja sama dengan negara lain dalam pembangunan global  sejak  Konferensi  Asia  Afrika  pada  tahun  1955.  Dalam  konferensi dimaksud Indonesia menjadi tuan rumah dan salah satu pencetus inisiatif kerja sama antar negara berkembang. Konferensi Asia Afrika merupakan titik awal kerjasama diantara negara berkembang yang saat ini dikenal dengan istilah Kerjasama Selatan-Selatan (KSS). Sejak saat itu sejumlah forum internasional banyak diselenggarakan diantaranya Conference on Technical Coorperation Among Developing Countries dihadiri oleh 138 negara dan menghasilkan Buence Area Plan of Action (BAPA) dan menjadi sejarah penting bagi pelaksanaan kerja sama teknik serta menjadi fondasi bagi tata ekonomi internasional untuk meningkatkan pembangunan ekonomi di negara berkembang pada saat itu.')]</value>
+      <webElementGuid>35d5b7e4-5112-44cb-93fb-74b6d7d71127</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

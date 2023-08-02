@@ -21,12 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.switchToWindowTitle('React App')
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
 
-WebUI.click(findTestObject('Object Repository/Beranda/Marquee/ID/a_LDKPI Meraih Opini Wajar Tanpa Pengecualian'))
+WebUI.click(findTestObject('Object Repository/Beranda/Marquee/a_LDKPI Meraih Opini Wajar Tanpa Pengecualian'))
 
-WebUI.switchToWindowTitle('React App')
+WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/Marquee/ID/a_LDKPI Menentang Keras Segala Bentuk Pembe_279bcb'), 
-    0)
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.click(findTestObject('Beranda/Marquee/a_LDKPI Menentang Keras Segala Bentuk Pemberian Berupa Uang, Barang dan Fasilitas Dalam Setiap Layanan Kami'))
 

@@ -17,3 +17,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:3000/')
+
+WebUI.click(findTestObject('Object Repository/Informasi/SurveyLayanan/a_Informasi'))
+
+WebUI.click(findTestObject('Object Repository/Informasi/SurveyLayanan/a_Survey Layanan'))
+
+WebUI.verifyElementPresent(findTestObject('Informasi/SurveyLayanan/p_Yang kami hormati Pengguna Layanan BLU LDKPI'), 0)
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:3000/')
+
+WebUI.click(findTestObject('Object Repository/Informasi/SurveyLayanan/a_Informasi'))
+
+WebUI.click(findTestObject('Object Repository/Informasi/SurveyLayanan/a_Survey Layanan'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Informasi/SurveyLayanan/p_Yang kami hormati Pengguna Layanan BLU LDKPI'), 
+    0)
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.click(findTestObject('Object Repository/Informasi/SurveyLayanan/a_SKPL LDKPI - PPK BLU.pdf (1)'))
+
+WebUI.navigateToUrl('http://localhost:3000/informasi/surveyLayanan')
+

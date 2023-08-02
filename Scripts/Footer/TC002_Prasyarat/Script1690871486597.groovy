@@ -21,5 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/Footer/pra/span_Prasyarat'))
+WebUI.click(findTestObject('Object Repository/Footer/Prasyarat/span_Prasyarat'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Prasyarat/p_Mohon dibaca dengan teliti sebelum Saudar_d55013'), 
+    0)
 

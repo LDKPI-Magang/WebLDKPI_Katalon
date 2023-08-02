@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Prasyarat</name>
+   <tag></tag>
+   <elementGuidId>ecd78b4e-f5d0-4f3d-8148-d9b451c43a88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/footer/div/div/div/a[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>15fca3d7-32b4-47a9-b61f-a3420bc73ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prasyarat</value>
+      <webElementGuid>29104bfe-6136-4551-8ce8-a65603f15885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/footer[@class=&quot;footer&quot;]/div[@class=&quot;container-fluid mt-5&quot;]/div[@class=&quot;row first-row py-2&quot;]/div[@class=&quot;col text-center&quot;]/a[2]/span[1]</value>
+      <webElementGuid>a9d156a1-d6e0-4d81-84c7-203668c86bcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/footer/div/div/div/a[2]/span</value>
+      <webElementGuid>f69b2f3d-b553-42c5-9190-b5e494f69a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/following::span[1]</value>
+      <webElementGuid>68be81cb-8120-4f5b-b0ea-4499b3707a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direktorat Jenderal Perbendaharaan'])[3]/following::span[2]</value>
+      <webElementGuid>c1e9f249-234e-4501-83c3-748bf10ed2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/preceding::span[1]</value>
+      <webElementGuid>ad0b048b-f8e5-4153-8926-c550e5723d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lembaga Kerja Sama Pembangunan Internasional - LDKPI'])[1]/preceding::span[1]</value>
+      <webElementGuid>5dbf731e-31e6-4004-b91a-46aa61eb9e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prasyarat']/parent::*</value>
+      <webElementGuid>0756a338-8628-40ea-948f-1bee017325f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div/a[2]/span</value>
+      <webElementGuid>bb93168f-17b4-425b-b2ca-1f6fac6c05cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Prasyarat' or . = 'Prasyarat')]</value>
+      <webElementGuid>71dea1f5-6378-4162-b9d6-87eee19b425f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

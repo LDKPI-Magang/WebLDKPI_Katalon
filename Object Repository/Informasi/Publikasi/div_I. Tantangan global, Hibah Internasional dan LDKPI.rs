@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_I. Tantangan global, Hibah Internasional dan LDKPI</name>
+   <tag></tag>
+   <elementGuidId>9cf3a3b4-3275-4d0c-813a-8dfa206a4d7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-description</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div/a/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c6014774-1de3-459b-b1e2-d2d0493626b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-description</value>
+      <webElementGuid>da7fc041-007c-4a88-aff6-6a1034cdf1c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I.  Tantangan global, Hibah Internasional dan LDKPISejak tahun 2015 hingga tahun 2019, Indonesia mampu mencapai pertumbuhan ekonomi yang stabil sebesar 5 persen (BPS, 2020). Pertumbuhan ini berkontribusi pada penurunan kemiskinan menjadi 9.6 persen, pengangguran menjadi 5.3 persen dan ketimpangan (Gini) menjadi 0.38 (BPS, 2019).   Bahkan IMF (2019) sempat...</value>
+      <webElementGuid>53516c22-e06a-43ea-8177-1a9f16d258cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[3]/div[@class=&quot;card-publication&quot;]/a[@class=&quot;read-more-button&quot;]/div[@class=&quot;card-description&quot;]</value>
+      <webElementGuid>b5641857-53d7-4fec-80aa-f29ff1195e60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div/a/div[2]</value>
+      <webElementGuid>876354fc-4577-4b70-928c-724e0ecdcf35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publikasi Ketiga'])[1]/following::div[1]</value>
+      <webElementGuid>b68c4612-4e5f-4efd-b00b-f0ae83ee6d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publikasi'])[3]/following::div[8]</value>
+      <webElementGuid>1979bae9-59c0-4f0b-a769-12fde65d3749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]</value>
+      <webElementGuid>6ae19279-eb20-4c2f-9307-cf638d220cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'I.  Tantangan global, Hibah Internasional dan LDKPISejak tahun 2015 hingga tahun 2019, Indonesia mampu mencapai pertumbuhan ekonomi yang stabil sebesar 5 persen (BPS, 2020). Pertumbuhan ini berkontribusi pada penurunan kemiskinan menjadi 9.6 persen, pengangguran menjadi 5.3 persen dan ketimpangan (Gini) menjadi 0.38 (BPS, 2019).   Bahkan IMF (2019) sempat...' or . = 'I.  Tantangan global, Hibah Internasional dan LDKPISejak tahun 2015 hingga tahun 2019, Indonesia mampu mencapai pertumbuhan ekonomi yang stabil sebesar 5 persen (BPS, 2020). Pertumbuhan ini berkontribusi pada penurunan kemiskinan menjadi 9.6 persen, pengangguran menjadi 5.3 persen dan ketimpangan (Gini) menjadi 0.38 (BPS, 2019).   Bahkan IMF (2019) sempat...')]</value>
+      <webElementGuid>e9d3a38d-5aa1-48c0-b519-55fc9fe631ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

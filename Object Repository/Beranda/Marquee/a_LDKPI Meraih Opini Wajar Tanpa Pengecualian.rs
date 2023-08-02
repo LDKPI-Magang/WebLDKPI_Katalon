@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LDKPI Meraih Opini Wajar Tanpa Pengecualian</name>
+   <tag></tag>
+   <elementGuidId>af40be3d-c4f5-487a-b86c-b87e5e0905e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.marquee-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[4]/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3e5635a2-418e-42ad-905d-66f94fc0a517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>marquee-link</value>
+      <webElementGuid>c7e54b0a-7dd3-4196-9e8b-99f841a6db3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ldkpi.kemenkeu.go.id/post/ldkpi-meraih-opini-wajar-tanpa-pengecualian</value>
+      <webElementGuid>403a7044-582c-42ba-a7cd-a07169b7fa49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>b71fbc44-533c-46e8-8d9e-8ffa614a50b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LDKPI Meraih Opini Wajar Tanpa Pengecualian</value>
+      <webElementGuid>2b685af8-ae98-4ff0-a017-8208e035724f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex justify-content-center&quot;]/div[@class=&quot;container-hibah mt-3&quot;]/div[@class=&quot;marquee-container&quot;]/div[@class=&quot;marquee-content&quot;]/a[@class=&quot;marquee-link&quot;]</value>
+      <webElementGuid>ebd82169-219e-4fc5-b8db-3fda7d041b65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[4]/div[2]/div/a</value>
+      <webElementGuid>6e081aed-7c9e-4553-aa26-c97897629ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'LDKPI Meraih Opini Wajar Tanpa Pengecualian')]</value>
+      <webElementGuid>ead58b33-e07e-45ed-b485-57ff8e5ab24c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebaran Realisasi Hibah'])[1]/following::a[1]</value>
+      <webElementGuid>195cb8c5-6793-42b8-81bd-3ddd8e1722e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil LDKPI'])[1]/following::a[1]</value>
+      <webElementGuid>02010c92-a74e-4897-acb5-846779c97a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YOUTUBE'])[1]/preceding::a[2]</value>
+      <webElementGuid>67b1f5c1-1306-4e6a-a22f-cce6561afe7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direktorat Jenderal Perbendaharaan'])[1]/preceding::a[8]</value>
+      <webElementGuid>6b805dc6-396f-4794-8c46-80154f83b05b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LDKPI Meraih Opini Wajar Tanpa Pengecualian']/parent::*</value>
+      <webElementGuid>9ca62d4f-34f9-404c-b898-25d4d2df8659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ldkpi.kemenkeu.go.id/post/ldkpi-meraih-opini-wajar-tanpa-pengecualian')]</value>
+      <webElementGuid>10fd7700-2957-4652-948f-90859489ef12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/a</value>
+      <webElementGuid>2e4652e5-1a13-4fe3-ba0a-cf068d4354cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ldkpi.kemenkeu.go.id/post/ldkpi-meraih-opini-wajar-tanpa-pengecualian' and (text() = 'LDKPI Meraih Opini Wajar Tanpa Pengecualian' or . = 'LDKPI Meraih Opini Wajar Tanpa Pengecualian')]</value>
+      <webElementGuid>6eeb99c3-2933-4962-9b80-b7dd265d5a03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

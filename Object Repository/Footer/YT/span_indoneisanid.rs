@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_indoneisanid</name>
+   <tag></tag>
+   <elementGuidId>975a21d6-b34f-4b68-b35c-93559151491d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/footer/div/div[2]/div[2]/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>64325267-ae52-4ebf-92c8-eb254e82a656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footer-link</value>
+      <webElementGuid>fc922da0-1f98-4a9c-b8ab-dfa7ae5e74bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> indoneisanid</value>
+      <webElementGuid>6b758e47-05d4-495f-a2c1-a9b3e08c0a5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/footer[@class=&quot;footer&quot;]/div[@class=&quot;container-fluid mt-5&quot;]/div[@class=&quot;row second-row py-2&quot;]/div[@class=&quot;col-lg-6 col-md-12 text-center right-column&quot;]/div[@class=&quot;text-start mb-3&quot;]/a[1]/span[@class=&quot;footer-link&quot;]</value>
+      <webElementGuid>a9c7520f-440e-4263-a8c2-552c47ee4d22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/footer/div/div[2]/div[2]/div[2]/a/span</value>
+      <webElementGuid>6a8ea5c0-16be-47de-ac2c-ff9dc525d70a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lembaga Kerja Sama Pembangunan Internasional - LDKPI'])[1]/following::span[1]</value>
+      <webElementGuid>5b51daf6-b4f5-4484-b11d-d9ecf328e145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::span[2]</value>
+      <webElementGuid>9640a406-3368-4412-85c4-0ca6fad0c9f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesian AID'])[1]/preceding::span[1]</value>
+      <webElementGuid>865df03b-9da3-42ae-b5f4-a5fcd2636614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='indoneisanid']/parent::*</value>
+      <webElementGuid>6fcab1d3-eeba-46f0-b7f0-d850ecade0ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>c953fc23-67a7-4865-b8d8-06e83acaea15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' indoneisanid' or . = ' indoneisanid')]</value>
+      <webElementGuid>1d3f59af-75df-4be1-b8a7-01453efdd31a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

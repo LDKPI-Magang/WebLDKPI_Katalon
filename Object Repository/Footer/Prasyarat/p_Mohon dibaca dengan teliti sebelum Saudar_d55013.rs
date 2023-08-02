@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Mohon dibaca dengan teliti sebelum Saudar_d55013</name>
+   <tag></tag>
+   <elementGuidId>329b6aa7-0d1a-49c4-960f-dba9795ea2aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5cae7353-9f92-45f6-93d6-4227410bc097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mohon dibaca dengan teliti sebelum Saudara masuk ke dalam halaman-halaman berikutnya. Sekiranya Saudara setuju dengan butir-butir maklumat berikut, silahkan meneruskan ke halaman berikutnya. Atau apabila Saudara langsung meneruskan ke halaman berikutnya, maka Saudara dianggap setuju dengan maklumat berikut ini.</value>
+      <webElementGuid>8b19154e-d8c5-4145-9a09-027eacf0f616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[2]/div[1]/div[1]/div[@class=&quot;rich-text-container&quot;]/p[1]</value>
+      <webElementGuid>2a04efce-f9c6-4629-8052-d16274e39001</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/p</value>
+      <webElementGuid>ce05ce50-d41e-4502-b646-2cf922a4575e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRASYARAT'])[1]/following::p[1]</value>
+      <webElementGuid>47a52e5f-ca61-4e19-ab30-5cdd5a15bec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prasyarat'])[2]/following::p[1]</value>
+      <webElementGuid>022d5007-788b-4a9d-ab0b-f28a25eb067f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/preceding::p[2]</value>
+      <webElementGuid>271d6632-26da-47f2-9dc1-e53ffbec104b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRASYARAT'])[2]/preceding::p[3]</value>
+      <webElementGuid>c53b5181-b5cd-4868-8d81-3a009cfa70d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mohon dibaca dengan teliti sebelum Saudara masuk ke dalam halaman-halaman berikutnya. Sekiranya Saudara setuju dengan butir-butir maklumat berikut, silahkan meneruskan ke halaman berikutnya. Atau apabila Saudara langsung meneruskan ke halaman berikutnya, maka Saudara dianggap setuju dengan maklumat berikut ini.']/parent::*</value>
+      <webElementGuid>08271377-cab3-4381-9ad7-1d97d9bf4d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>74a117e6-4edb-4760-85a6-ee7137899b57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Mohon dibaca dengan teliti sebelum Saudara masuk ke dalam halaman-halaman berikutnya. Sekiranya Saudara setuju dengan butir-butir maklumat berikut, silahkan meneruskan ke halaman berikutnya. Atau apabila Saudara langsung meneruskan ke halaman berikutnya, maka Saudara dianggap setuju dengan maklumat berikut ini.' or . = 'Mohon dibaca dengan teliti sebelum Saudara masuk ke dalam halaman-halaman berikutnya. Sekiranya Saudara setuju dengan butir-butir maklumat berikut, silahkan meneruskan ke halaman berikutnya. Atau apabila Saudara langsung meneruskan ke halaman berikutnya, maka Saudara dianggap setuju dengan maklumat berikut ini.')]</value>
+      <webElementGuid>190912ef-39ef-4b94-8fb4-f289870491eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

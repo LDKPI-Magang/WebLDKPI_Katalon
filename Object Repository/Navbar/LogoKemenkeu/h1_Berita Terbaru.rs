@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Berita Terbaru</name>
+   <tag></tag>
+   <elementGuidId>4d351e1b-0524-488a-a801-eb3b6d667ce3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.pl-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>a773f217-a8a7-4bfb-ba16-233dd4ecb79e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pl-5</value>
+      <webElementGuid>6b7e2431-7c1c-4fb9-b3f7-2630a57f3be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berita Terbaru</value>
+      <webElementGuid>86d5c486-9ab3-41af-95cb-eb1001a18cd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex justify-content-center&quot;]/div[@class=&quot;container-fluid latest-news px-3&quot;]/div[@class=&quot;row h-25 mb-4 mx-3&quot;]/div[@class=&quot;col-12 d-flex flex-column justify-content-end align-items-start&quot;]/div[@class=&quot;d-flex align-items-center pt-4&quot;]/div[1]/h1[@class=&quot;pl-5&quot;]</value>
+      <webElementGuid>f44ef469-140f-4a35-a4dd-c2a32f4c1e6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/div/h1</value>
+      <webElementGuid>2d82310b-c8ff-479b-b66a-68305899d363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::h1[1]</value>
+      <webElementGuid>f62c11c0-ca75-4d0e-b88b-427bcdc37021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::h1[1]</value>
+      <webElementGuid>b1ed34e2-df50-4407-a4c2-b33cfd389a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita 16'])[1]/preceding::h1[1]</value>
+      <webElementGuid>9a00363e-ec68-44fa-8cfe-2dcc31bbec04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAKARTA, KOMPAS.com'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c3f363d8-b0df-40b4-99b8-0fb552334500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Berita Terbaru']/parent::*</value>
+      <webElementGuid>b5eacb9c-97ef-4cbd-9936-a753172e9e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>4757bb76-6e84-41ca-b7ca-ef4d8c473196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Berita Terbaru' or . = 'Berita Terbaru')]</value>
+      <webElementGuid>0a82c692-70fd-4f6c-89d1-219d7e02ec96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

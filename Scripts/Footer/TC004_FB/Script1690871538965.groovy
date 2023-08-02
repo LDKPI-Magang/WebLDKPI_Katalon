@@ -17,3 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:3000/')
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.click(findTestObject('Object Repository/Footer/FB/span_Lembaga Kerja Sama Pembangunan Interna_9cdbb7'))
+

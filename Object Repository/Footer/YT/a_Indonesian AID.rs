@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Indonesian AID</name>
+   <tag></tag>
+   <elementGuidId>b056b1ae-4352-4767-9b2b-76e7439d8e4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/footer/div/div[2]/div[2]/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>003fbf0c-4344-4bde-8fdd-52dd8028fd8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.youtube.com</value>
+      <webElementGuid>418a423c-cf00-4181-88e4-599fed3ed5ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>2119b6e8-3e8c-4bb2-b4d9-864459453051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Indonesian AID</value>
+      <webElementGuid>05b1f4bd-f22a-4f26-873b-e29c1301ca39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/footer[@class=&quot;footer&quot;]/div[@class=&quot;container-fluid mt-5&quot;]/div[@class=&quot;row second-row py-2&quot;]/div[@class=&quot;col-lg-6 col-md-12 text-center right-column&quot;]/div[@class=&quot;text-start&quot;]/a[1]</value>
+      <webElementGuid>a6a22672-ddf6-489b-b12a-9a2bc5302740</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/footer/div/div[2]/div[2]/div[3]/a</value>
+      <webElementGuid>5043afd7-383c-4e1d-ba30-588a5e8bd72f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='indoneisanid'])[1]/following::a[1]</value>
+      <webElementGuid>3bb0df14-bbc3-43cf-a7de-843ca5bbde6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lembaga Kerja Sama Pembangunan Internasional - LDKPI'])[1]/following::a[2]</value>
+      <webElementGuid>8789eaab-0da0-41d3-bc84-e76b2edb45fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.youtube.com')]</value>
+      <webElementGuid>3bfddadb-63fa-4cd9-aad6-68a1fcf88b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div[2]/div[2]/div[3]/a</value>
+      <webElementGuid>30b5d28a-df50-4fe1-9164-689d24c38fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.youtube.com' and (text() = ' Indonesian AID' or . = ' Indonesian AID')]</value>
+      <webElementGuid>bbe8db5a-6202-439d-9002-083f2e4ca650</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Pemerintah Indonesia telah secara aktif m_960136</name>
+   <tag></tag>
+   <elementGuidId>74240622-e477-456b-af54-229932e6f71d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div/a/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>186ad70f-b6d1-4a93-a5d0-e241ff85666d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pemerintah Indonesia telah secara aktif menjalin kerja sama dengan negara lain dalam pembangunan global  sejak  Konferensi  Asia  Afrika  pada  tahun  1955.  Dalam  konferensi dimaksud Indonesia menjadi tuan rumah dan salah satu pencetus inisiatif kerja sama antar negara berkembang. Konferensi Asia Afrika merupakan titik awal kerjasama diantara negara berkembang yang saat...</value>
+      <webElementGuid>7a9c665f-7f72-42f4-8c2a-bf6e89fcdb57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[3]/div[@class=&quot;card-publication&quot;]/a[@class=&quot;read-more-button&quot;]/div[@class=&quot;card-description&quot;]/p[1]</value>
+      <webElementGuid>75a4b956-c5c5-457d-bfc3-4c3e125898b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div/a/div[2]/p</value>
+      <webElementGuid>a1db020f-3c3e-4ede-94bf-4522a4975c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publikasi Pertama'])[1]/following::p[1]</value>
+      <webElementGuid>c7787454-39bb-4498-bcdf-9ff219cf5604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publikasi'])[3]/following::p[1]</value>
+      <webElementGuid>1d251d64-dfb5-461b-bedd-6b8f4249623e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(current)'])[1]/preceding::p[1]</value>
+      <webElementGuid>de44ac8c-0e36-4605-9f41-75e7a857e140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::p[1]</value>
+      <webElementGuid>aba05bef-2d4d-4d1c-9bdb-17c2958acaf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pemerintah Indonesia telah secara aktif menjalin kerja sama dengan negara lain dalam pembangunan global  sejak  Konferensi  Asia  Afrika  pada  tahun  1955.  Dalam  konferensi dimaksud Indonesia menjadi tuan rumah dan salah satu pencetus inisiatif kerja sama antar negara berkembang. Konferensi Asia Afrika merupakan titik awal kerjasama diantara negara berkembang yang saat...']/parent::*</value>
+      <webElementGuid>206315fc-9523-4e0e-9a69-398a31f595dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>51c1c574-c3c5-470e-abfa-9846008711ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Pemerintah Indonesia telah secara aktif menjalin kerja sama dengan negara lain dalam pembangunan global  sejak  Konferensi  Asia  Afrika  pada  tahun  1955.  Dalam  konferensi dimaksud Indonesia menjadi tuan rumah dan salah satu pencetus inisiatif kerja sama antar negara berkembang. Konferensi Asia Afrika merupakan titik awal kerjasama diantara negara berkembang yang saat...' or . = 'Pemerintah Indonesia telah secara aktif menjalin kerja sama dengan negara lain dalam pembangunan global  sejak  Konferensi  Asia  Afrika  pada  tahun  1955.  Dalam  konferensi dimaksud Indonesia menjadi tuan rumah dan salah satu pencetus inisiatif kerja sama antar negara berkembang. Konferensi Asia Afrika merupakan titik awal kerjasama diantara negara berkembang yang saat...')]</value>
+      <webElementGuid>5a282bb7-2976-45a1-a621-7c4b31ac93ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

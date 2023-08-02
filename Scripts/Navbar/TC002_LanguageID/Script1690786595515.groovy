@@ -21,12 +21,12 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/Language/ID/button_EN'))
+WebUI.click(findTestObject('Object Repository/Navbar/Language/ID/button_EN'))
 
-WebUI.click(findTestObject('Object Repository/Language/ID/button_ID'))
+WebUI.click(findTestObject('Object Repository/Navbar/Language/ID/button_ID'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Language/ID/span_Lembaga Dana Kerja SamaPembangunan Int_6a0ab2'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Navbar/Language/ID/span_Lembaga Dana Kerja SamaPembangunan Int_6a0ab2'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Language/ID/h1_Berita Terbaru'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Navbar/Language/ID/h1_Berita Terbaru'), 0)
 

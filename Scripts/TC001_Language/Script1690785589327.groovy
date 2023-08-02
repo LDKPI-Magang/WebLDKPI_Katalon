@@ -21,8 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/Language/EN/button_EN'))
+WebUI.click(findTestObject('Object Repository/Navbar/Language/EN/button_EN'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Language/EN/span_Indonesian Agency for  International D_a5dc10'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Navbar/Language/EN/span_Indonesian Agency for  International D_a5dc10'), 
     0)
 

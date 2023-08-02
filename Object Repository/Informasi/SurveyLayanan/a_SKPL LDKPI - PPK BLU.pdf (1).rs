@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SKPL LDKPI - PPK BLU.pdf (1)</name>
+   <tag></tag>
+   <elementGuidId>7b2d26db-667a-4b7f-94d3-4aa118c75eb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(7) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div/p[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>848b740a-75a0-42a5-93da-fe4144977abb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ldkpi.kemenkeu.go.id/api/Medias/90b59024-ce33-4a62-abda-f0dc908ab1d8</value>
+      <webElementGuid>58482913-aaf4-4467-9e1e-f6bee7b962a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>d077524f-01f3-43f9-b37f-0cd4ac70db7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>6fea69bb-7bd7-419a-98a9-7295bcb49fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>download</name>
+      <type>Main</type>
+      <value>download</value>
+      <webElementGuid>4d839139-b11a-4578-bbc3-ed900d3dbed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SKPL LDKPI - PPK BLU.pdf</value>
+      <webElementGuid>1d3f03bd-f51e-425f-94f9-23e1d817f705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[2]/div[@class=&quot;px-5 pt-5&quot;]/div[1]/div[@class=&quot;rich-text-container&quot;]/p[7]/a[1]</value>
+      <webElementGuid>6e60de4d-dc34-4fc5-b24c-aba2c16872a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/p[7]/a</value>
+      <webElementGuid>fc48d386-6ef4-4158-88fa-7d32954b12a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SKPL LDKPI - PPK BLU.pdf')]</value>
+      <webElementGuid>d7f442b1-19df-475b-a67b-ebe6ae1bbb99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berikut hasil SKPL LDKPI Tahun 2022'])[1]/following::a[1]</value>
+      <webElementGuid>00a1da29-7aef-4149-bca9-041a847194f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link Survey :'])[1]/following::a[1]</value>
+      <webElementGuid>2aa7595b-622c-4538-bf9e-35de7fc4d494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SKPL LDKPI Tahun 2022.pdf'])[1]/preceding::a[1]</value>
+      <webElementGuid>1b96baab-11cd-4a9c-8802-98f3f0d2ba0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::a[2]</value>
+      <webElementGuid>e65a8d09-8da3-4145-8023-f514efba2e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SKPL LDKPI - PPK BLU.pdf']/parent::*</value>
+      <webElementGuid>b08581d8-6f01-464d-8fd0-1f9a0592b08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ldkpi.kemenkeu.go.id/api/Medias/90b59024-ce33-4a62-abda-f0dc908ab1d8')]</value>
+      <webElementGuid>286a6993-2456-4b60-871e-24d35dec4185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[7]/a</value>
+      <webElementGuid>69ace818-a4a3-4dbf-909a-b1e1ae25daaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ldkpi.kemenkeu.go.id/api/Medias/90b59024-ce33-4a62-abda-f0dc908ab1d8' and (text() = 'SKPL LDKPI - PPK BLU.pdf' or . = 'SKPL LDKPI - PPK BLU.pdf')]</value>
+      <webElementGuid>f16138ff-a757-4286-a470-d12c4137fd86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

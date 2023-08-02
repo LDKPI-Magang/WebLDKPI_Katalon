@@ -17,3 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:3000/')
+
+WebUI.click(findTestObject('Object Repository/Informasi/Publikasi/a_Informasi (1)'))
+
+WebUI.click(findTestObject('Object Repository/Informasi/Publikasi/button_Galeri'))
+
+WebUI.click(findTestObject('Object Repository/Informasi/Publikasi/a_Publikasi'))
+
+WebUI.verifyElementPresent(findTestObject('Informasi/Publikasi/div_I. Tantangan global, Hibah Internasional dan LDKPI'), 
+    0)
+
