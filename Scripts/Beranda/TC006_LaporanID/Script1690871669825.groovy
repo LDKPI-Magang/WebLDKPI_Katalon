@@ -21,32 +21,41 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.switchToWindowTitle('React App')
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
 
-WebUI.click(findTestObject('Object Repository/Beranda/Laporan/Page_React App/img_YOUTUBE_button-image'))
+WebUI.click(findTestObject('Object Repository/Beranda/Page_Lembaga Dana Kerjas Sama Pembangunan I_724398/img_YOUTUBE_button-image'))
 
-WebUI.verifyElementPresent(findTestObject('Beranda/Laporan/Page_Kementerian Keuangan Republik Indonesia/h3_Berita Terbaru'), 0)
-
-WebUI.switchToWindowTitle('React App')
-
-WebUI.click(findTestObject('Object Repository/Beranda/Laporan/Page_React App/img_YOUTUBE_button-image_1'))
-
-WebUI.verifyElementPresent(findTestObject('Beranda/Laporan/Page_Home Page - Whistleblowing System/h1_Selamat datang di Whistleblowing System'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/Page_Kementerian Keuangan Republik Indonesia/img_Profil_brand'), 
     0)
 
-WebUI.switchToWindowTitle('React App')
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
 
-WebUI.click(findTestObject('Object Repository/Beranda/Laporan/Page_React App/img_YOUTUBE_button-image_1_2'))
+WebUI.click(findTestObject('Object Repository/Beranda/Page_Lembaga Dana Kerjas Sama Pembangunan I_724398/img_YOUTUBE_button-image_1'))
 
-WebUI.verifyElementPresent(findTestObject('Beranda/Laporan/Page_Kalkulator Kurs/h2_Kalkulator Kurs'), 0)
+WebUI.verifyElementPresent(findTestObject('Beranda/Page_Home Page - Whistleblowing System/Page_Home Page - Whistleblowing System/img'), 
+    0)
 
-WebUI.switchToWindowTitle('React App')
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
 
-WebUI.click(findTestObject('Object Repository/Beranda/Laporan/Page_React App/img_YOUTUBE_button-image_1_2_3'))
+WebUI.click(findTestObject('Object Repository/Beranda/Page_Lembaga Dana Kerjas Sama Pembangunan I_724398/img_YOUTUBE_button-image_1_2'))
 
-WebUI.switchToWindowTitle('React App')
+WebUI.switchToWindowTitle('Kalkulator Kurs')
 
-WebUI.click(findTestObject('Object Repository/Beranda/Laporan/Page_React App/img_YOUTUBE_button-image_1_2_3_4'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/Page_Kalkulator Kurs/img_Peta Situs_onetidHeadbnnr0'), 
+    0)
 
-WebUI.verifyElementPresent(findTestObject('Beranda/Laporan/Page_SAPA DJPPR/p_Kami Hadir Untuk Menyapa'), 0)
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.click(findTestObject('Object Repository/Beranda/Page_Lembaga Dana Kerjas Sama Pembangunan I_724398/a_YOUTUBE_btn btn-primary btn-sm square-button'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/Page_LAPOR - Layanan Aspirasi dan Pengaduan_5c85b6/img_Toggle navigation_img-responsive hidden_ebcc28'), 
+    0)
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.click(findTestObject('Object Repository/Beranda/Page_Lembaga Dana Kerjas Sama Pembangunan I_724398/a_YOUTUBE_btn btn-primary btn-sm square-button_1'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/Page_SAPA DJPPR/img'), 0)
+
+WebUI.closeBrowser()
 

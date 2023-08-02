@@ -21,19 +21,80 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/Beranda/OwlHome/ID/button_Direktorat Jenderal Perbendaharaan_owl-prev'))
+WebUI.waitForElementVisible(findTestObject('Beranda/OwlCarousel/div_Sekretariat Jenderal'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Beranda/OwlHome/ID/i_Direktorat Jenderal Perbendaharaan_fa fa-_0ff10a'))
+WebUI.click(findTestObject('Object Repository/Beranda/OwlCarousel/div_Sekretariat Jenderal'))
 
-WebUI.switchToWindowTitle('React App')
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/OwlHome/ID/span_Direktorat Jenderal Pajak'), 0)
+WebUI.waitForElementVisible(findTestObject('Beranda/OwlCarousel/div_Inspektorat Jenderal'), 
+    0)
 
-WebUI.switchToWindowTitle('React App')
+WebUI.click(findTestObject('Object Repository/Beranda/OwlCarousel/div_Inspektorat Jenderal'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/OwlHome/ID/div_Direktorat Jenderal Anggaran'), 0)
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
 
-WebUI.switchToWindowTitle('React App')
+WebUI.waitForElementVisible(findTestObject('Beranda/OwlCarousel/div_Direktorat Jenderal Anggaran'), 
+    0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Beranda/OwlHome/ID/div_Inspektorat Jenderal'), 0)
+WebUI.click(findTestObject('Object Repository/Beranda/OwlCarousel/div_Direktorat Jenderal Anggaran'))
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.waitForElementVisible(findTestObject('Beranda/OwlCarousel/div_Direktorat Jenderal Pajak'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Beranda/OwlCarousel/div_Direktorat Jenderal Pajak'))
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.waitForElementVisible(findTestObject('Beranda/OwlCarousel/div_Direktorat Jenderal Bea dan Cukai'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Beranda/OwlCarousel/div_Direktorat Jenderal Bea dan Cukai'))
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.waitForElementVisible(findTestObject('Beranda/OwlCarousel/div_Direktorat Jenderal Kekayaan Negara'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Beranda/OwlCarousel/div_Direktorat Jenderal Kekayaan Negara'))
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.waitForElementVisible(findTestObject('Beranda/OwlCarousel/div_Direktorat Jenderal Perbendaharaan'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Beranda/OwlCarousel/div_Direktorat Jenderal Perbendaharaan'))
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.waitForElementVisible(findTestObject('Beranda/OwlCarousel/div_Direktorat Jenderal Perimbangan Keuangan'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Beranda/OwlCarousel/div_Direktorat Jenderal Perimbangan Keuangan'))
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.waitForElementVisible(findTestObject('Beranda/OwlCarousel/div_Direktorat Jenderal Pengelolaan Pembiay_489c58'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Beranda/OwlCarousel/div_Direktorat Jenderal Pengelolaan Pembiay_489c58'))
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.waitForElementVisible(findTestObject('Beranda/OwlCarousel/div_Badan Kebijakan Fiskal'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Beranda/OwlCarousel/div_Badan Kebijakan Fiskal'))
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
+
+WebUI.waitForElementVisible(findTestObject('Beranda/OwlCarousel/div_Badan Pendidikan dan Pelatihan Keuanganl'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Beranda/OwlCarousel/div_Badan Pendidikan dan Pelatihan Keuanganl'))
+
+WebUI.switchToWindowTitle('Lembaga Dana Kerjas Sama Pembangunan Internasional')
 

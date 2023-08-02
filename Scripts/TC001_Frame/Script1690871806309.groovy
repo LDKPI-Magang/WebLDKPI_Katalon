@@ -17,3 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:3000/')
+
+WebUI.click(findTestObject('Object Repository/Frame/a_Berita'))
+
+WebUI.verifyElementPresent(findTestObject('Frame/span_Berita'), 0)
+
+WebUI.click(findTestObject('Object Repository/Frame/a_Beranda'))
+
+WebUI.click(findTestObject('Object Repository/Frame/a_Profil'))
+
+WebUI.click(findTestObject('Object Repository/Frame/a_Sejarah'))
+
+WebUI.verifyElementPresent(findTestObject('Frame/span_Sejarah'), 0)
+
+WebUI.click(findTestObject('Object Repository/Frame/a_Beranda'))
+

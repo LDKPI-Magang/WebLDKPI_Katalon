@@ -17,3 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:3000/')
+
+WebUI.click(findTestObject('Object Repository/PemberianHibah/PenerimaHibah/a_Pemberian Hibah'))
+
+WebUI.click(findTestObject('Object Repository/PemberianHibah/PenerimaHibah/a_Penerima Hibah'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/PemberianHibah/PenerimaHibah/img_Penerima Hibah_px-3'), 
+    0)
+

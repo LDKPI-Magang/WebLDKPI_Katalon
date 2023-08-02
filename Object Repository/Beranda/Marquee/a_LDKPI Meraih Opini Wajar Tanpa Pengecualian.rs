@@ -3,7 +3,7 @@
    <description></description>
    <name>a_LDKPI Meraih Opini Wajar Tanpa Pengecualian</name>
    <tag></tag>
-   <elementGuidId>af40be3d-c4f5-487a-b86c-b87e5e0905e5</elementGuidId>
+   <elementGuidId>7ba642e0-3e98-4084-a8be-2151c3ef95b4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3e5635a2-418e-42ad-905d-66f94fc0a517</webElementGuid>
+      <webElementGuid>858457d2-fc84-4d18-8cf3-1d3a054c662a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>marquee-link</value>
-      <webElementGuid>c7e54b0a-7dd3-4196-9e8b-99f841a6db3b</webElementGuid>
+      <webElementGuid>59d96780-3700-4905-9a94-82074c72790a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://ldkpi.kemenkeu.go.id/post/ldkpi-meraih-opini-wajar-tanpa-pengecualian</value>
-      <webElementGuid>403a7044-582c-42ba-a7cd-a07169b7fa49</webElementGuid>
+      <webElementGuid>b651d863-8629-4b75-b468-974cfa4a4d23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>b71fbc44-533c-46e8-8d9e-8ffa614a50b2</webElementGuid>
+      <webElementGuid>d310aab1-520e-44f1-b9fb-e10813797a92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>LDKPI Meraih Opini Wajar Tanpa Pengecualian</value>
-      <webElementGuid>2b685af8-ae98-4ff0-a017-8208e035724f</webElementGuid>
+      <webElementGuid>d83305b5-2f5f-4afa-89b7-f22acf94b7d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex justify-content-center&quot;]/div[@class=&quot;container-hibah mt-3&quot;]/div[@class=&quot;marquee-container&quot;]/div[@class=&quot;marquee-content&quot;]/a[@class=&quot;marquee-link&quot;]</value>
-      <webElementGuid>ebd82169-219e-4fc5-b8db-3fda7d041b65</webElementGuid>
+      <webElementGuid>63af50ea-9473-4a34-a386-43a52aff177d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div[4]/div[2]/div/a</value>
-      <webElementGuid>6e081aed-7c9e-4553-aa26-c97897629ffa</webElementGuid>
+      <webElementGuid>1608cf8b-7454-436f-ad31-a70cd6ebebb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'LDKPI Meraih Opini Wajar Tanpa Pengecualian')]</value>
-      <webElementGuid>ead58b33-e07e-45ed-b485-57ff8e5ab24c</webElementGuid>
+      <webElementGuid>2a20682e-585e-4276-8962-4da22854f09b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebaran Realisasi Hibah'])[1]/following::a[1]</value>
-      <webElementGuid>195cb8c5-6793-42b8-81bd-3ddd8e1722e8</webElementGuid>
+      <webElementGuid>cc491b94-e358-47a8-9459-3c2496b0e2e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil LDKPI'])[1]/following::a[1]</value>
-      <webElementGuid>02010c92-a74e-4897-acb5-846779c97a6d</webElementGuid>
+      <webElementGuid>95857499-ba3a-4b09-9c0b-c302a4c76e09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='YOUTUBE'])[1]/preceding::a[2]</value>
-      <webElementGuid>67b1f5c1-1306-4e6a-a22f-cce6561afe7a</webElementGuid>
+      <webElementGuid>33327d97-6226-4748-a211-efebece1ecb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Direktorat Jenderal Perbendaharaan'])[1]/preceding::a[8]</value>
-      <webElementGuid>6b805dc6-396f-4794-8c46-80154f83b05b</webElementGuid>
+      <webElementGuid>d717e214-75ab-451b-a85e-88b43c0e3db9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='LDKPI Meraih Opini Wajar Tanpa Pengecualian']/parent::*</value>
-      <webElementGuid>9ca62d4f-34f9-404c-b898-25d4d2df8659</webElementGuid>
+      <webElementGuid>ce803513-1a5e-4bd9-84a9-5024d35a02b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://ldkpi.kemenkeu.go.id/post/ldkpi-meraih-opini-wajar-tanpa-pengecualian')]</value>
-      <webElementGuid>10fd7700-2957-4652-948f-90859489ef12</webElementGuid>
+      <webElementGuid>d305f1a5-4194-4c1b-af3d-279d70e5974d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/a</value>
-      <webElementGuid>2e4652e5-1a13-4fe3-ba0a-cf068d4354cc</webElementGuid>
+      <webElementGuid>83ed87d7-6d7a-4bd3-9307-da7988ab97ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://ldkpi.kemenkeu.go.id/post/ldkpi-meraih-opini-wajar-tanpa-pengecualian' and (text() = 'LDKPI Meraih Opini Wajar Tanpa Pengecualian' or . = 'LDKPI Meraih Opini Wajar Tanpa Pengecualian')]</value>
-      <webElementGuid>6eeb99c3-2933-4962-9b80-b7dd265d5a03</webElementGuid>
+      <webElementGuid>2fe38f35-30dc-4275-b119-207918b8f663</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
