@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Peraturan Pemerintah Nomor 48</name>
+   <tag></tag>
+   <elementGuidId>8fbca2ff-8224-4218-a6b6-0497a67fe5bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div/figure/table/tbody/tr[2]/td[2]/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7a17a528-ace0-4608-b014-6704d9aee412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ldkpi.kemenkeu.go.id/api/Medias/a60dbab3-90d5-415c-bd09-fe4d4db10c3b</value>
+      <webElementGuid>29564834-7dde-4a61-8375-4e5b27c32655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>2289b7e7-61af-4f93-a286-8d1b8fd5f21b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>aae621cb-bd92-434b-ac4d-9c62a875d91c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>download</name>
+      <type>Main</type>
+      <value>download</value>
+      <webElementGuid>1c9c7101-30e4-40e4-a77f-0df9fd84da51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Peraturan Pemerintah Nomor 48 Tahun 2018 tentang Tata Cara Pemberian Hibah kepada Pemerintah Asing/Lembaga Asing sebagaimana telah diubah sebagian melalui Peraturan Pemerintah Nomor 57 Tahun 2019 tentang Perubahan Atas Peraturan Pemerintah Nomor 48 Tahun 2018 tentang Tata Cara Pemberian Hibah Kepada Pemerintah Asing/Lembaga Asing</value>
+      <webElementGuid>8fb75ee2-9ffb-48ec-b142-2fc854d2fc8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[2]/div[@class=&quot;px-5 pt-5&quot;]/div[1]/div[@class=&quot;rich-text-container&quot;]/figure[@class=&quot;table&quot;]/table[1]/tbody[1]/tr[2]/td[2]/p[1]/a[1]</value>
+      <webElementGuid>2b483d99-9da3-442a-a6bd-26c73f73f39d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/figure/table/tbody/tr[2]/td[2]/p/a</value>
+      <webElementGuid>9815b857-8344-41ae-a485-5bbc04f73ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Peraturan Pemerintah Nomor 48 Tahun 2018 tentang Tata Cara Pemberian Hibah kepada Pemerintah Asing/Lembaga Asing sebagaimana telah diubah sebagian melalui Peraturan Pemerintah Nomor 57 Tahun 2019 tentang Perubahan Atas Peraturan Pemerintah Nomor 48 Tahun 2018 tentang Tata Cara Pemberian Hibah Kepada Pemerintah Asing/Lembaga Asing')]</value>
+      <webElementGuid>ce66bbb8-f433-4d85-87ad-92f2accbaf30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PERATURAN'])[1]/following::a[1]</value>
+      <webElementGuid>51005843-47da-473f-94b8-7ae2dfc59e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/following::a[1]</value>
+      <webElementGuid>d56bf603-e29e-41ea-9f78-a7de7eae370a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::a[9]</value>
+      <webElementGuid>a560fd1e-2cd5-411b-ac07-e64fee2bec4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prasyarat'])[1]/preceding::a[10]</value>
+      <webElementGuid>66659dc4-1cd0-42d3-a251-49e068b25c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Peraturan Pemerintah Nomor 48 Tahun 2018 tentang Tata Cara Pemberian Hibah kepada Pemerintah Asing/Lembaga Asing sebagaimana telah diubah sebagian melalui Peraturan Pemerintah Nomor 57 Tahun 2019 tentang Perubahan Atas Peraturan Pemerintah Nomor 48 Tahun 2018 tentang Tata Cara Pemberian Hibah Kepada Pemerintah Asing/Lembaga Asing']/parent::*</value>
+      <webElementGuid>e66ada0e-ce6b-49f6-a2bf-2b7cceb14b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ldkpi.kemenkeu.go.id/api/Medias/a60dbab3-90d5-415c-bd09-fe4d4db10c3b')]</value>
+      <webElementGuid>4a1d4423-e336-47c7-9123-53b851c19641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>da655358-6b27-4ae8-aeb8-be352a5017bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ldkpi.kemenkeu.go.id/api/Medias/a60dbab3-90d5-415c-bd09-fe4d4db10c3b' and (text() = 'Peraturan Pemerintah Nomor 48 Tahun 2018 tentang Tata Cara Pemberian Hibah kepada Pemerintah Asing/Lembaga Asing sebagaimana telah diubah sebagian melalui Peraturan Pemerintah Nomor 57 Tahun 2019 tentang Perubahan Atas Peraturan Pemerintah Nomor 48 Tahun 2018 tentang Tata Cara Pemberian Hibah Kepada Pemerintah Asing/Lembaga Asing' or . = 'Peraturan Pemerintah Nomor 48 Tahun 2018 tentang Tata Cara Pemberian Hibah kepada Pemerintah Asing/Lembaga Asing sebagaimana telah diubah sebagian melalui Peraturan Pemerintah Nomor 57 Tahun 2019 tentang Perubahan Atas Peraturan Pemerintah Nomor 48 Tahun 2018 tentang Tata Cara Pemberian Hibah Kepada Pemerintah Asing/Lembaga Asing')]</value>
+      <webElementGuid>fd11d720-08af-48be-a26d-b34ac0ec2c8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

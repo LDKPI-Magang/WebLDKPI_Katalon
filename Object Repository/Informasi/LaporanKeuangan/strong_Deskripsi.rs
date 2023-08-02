@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Deskripsi</name>
+   <tag></tag>
+   <elementGuidId>7a270051-cde8-4162-8602-60e3ae95526d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div/figure/table/tbody/tr/td/p/span/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>366adc5e-101d-4b28-b17b-21138e0af61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deskripsi</value>
+      <webElementGuid>3e41623d-bc7c-4d41-8a4a-f07b440efc9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[2]/div[@class=&quot;px-3 pt-3 pb-1&quot;]/div[1]/div[@class=&quot;rich-text-container&quot;]/figure[@class=&quot;table&quot;]/table[1]/tbody[1]/tr[1]/td[1]/p[1]/span[1]/strong[1]</value>
+      <webElementGuid>009370d3-6077-4ba3-827f-3cf668c0dded</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/figure/table/tbody/tr/td/p/span/strong</value>
+      <webElementGuid>a119c876-0f36-454a-a1df-8409f9c97359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Keuangan'])[3]/following::strong[1]</value>
+      <webElementGuid>6a587304-6df5-46ae-be05-e30c00873752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Keuangan'])[2]/following::strong[1]</value>
+      <webElementGuid>abe0ee1c-3ad4-43b2-abe5-f9d2ca144d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahun Terbit'])[1]/preceding::strong[1]</value>
+      <webElementGuid>3b85d795-471b-4e59-900b-31ff8e71a20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LK BA 999.03 Pengelolaan Investasi LDKPI TA 2020 (Audited).pdf'])[1]/preceding::strong[2]</value>
+      <webElementGuid>d6ecddc2-2eb4-4f7b-83f4-c2138ef99fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Deskripsi']/parent::*</value>
+      <webElementGuid>f5316c74-cb43-400b-a9ba-6f6182971072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>c5ad6c49-2673-4dfb-9ee6-4d2a88c67156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Deskripsi' or . = 'Deskripsi')]</value>
+      <webElementGuid>175adbfe-d100-41dc-9a93-8a932fcc1baf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

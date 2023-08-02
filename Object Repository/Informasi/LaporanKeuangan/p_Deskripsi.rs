@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Deskripsi</name>
+   <tag></tag>
+   <elementGuidId>be148f74-57a0-48ac-9b05-bd6fba3577b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div/figure/table/tbody/tr/td/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>12bde274-65f5-4089-99f2-a99b59ee4b70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deskripsi</value>
+      <webElementGuid>8a85fc43-e05b-4e08-9a23-8b8ee71bb688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[2]/div[@class=&quot;px-3 pt-3 pb-1&quot;]/div[1]/div[@class=&quot;rich-text-container&quot;]/figure[@class=&quot;table&quot;]/table[1]/tbody[1]/tr[1]/td[1]/p[1]</value>
+      <webElementGuid>d87f6142-7c2a-421f-a4e0-15fe858fd36a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/figure/table/tbody/tr/td/p</value>
+      <webElementGuid>0cdae592-226a-453f-8c21-39feff7b17ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Keuangan'])[3]/following::p[2]</value>
+      <webElementGuid>9a1f6b69-5f9e-4b0b-915f-70198fab271e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Keuangan'])[2]/following::p[2]</value>
+      <webElementGuid>ba153432-17c1-4d0e-86fd-cda710a054cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahun Terbit'])[1]/preceding::p[1]</value>
+      <webElementGuid>9c08cb01-caa7-401f-82de-f3cbf6a60eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/p</value>
+      <webElementGuid>158c696d-4e0d-4294-93ce-56917f8dd860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Deskripsi' or . = 'Deskripsi')]</value>
+      <webElementGuid>2c62009d-68f0-48ba-9e45-1649f0ae3cd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

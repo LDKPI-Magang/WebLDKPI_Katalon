@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Indonesia dikenal sebagai salah satu n_6ea12e</name>
+   <tag></tag>
+   <elementGuidId>38e7db0b-959c-4f8f-8200-a96dfce98fff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.carousel-control-prev-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[2]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f0801253-8d0f-4cd5-9a15-32849aaf8a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>59ea9bee-c4ac-406f-a038-b205a18c57c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>carousel-control-prev-icon</value>
+      <webElementGuid>afdc1a8b-87fe-47d2-9d1b-7c6356e26427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;home-foto&quot;]/div[@class=&quot;content-carousel-foto&quot;]/div[@class=&quot;carousel-container-foto carousel slide&quot;]/a[@class=&quot;carousel-control-prev&quot;]/span[@class=&quot;carousel-control-prev-icon&quot;]</value>
+      <webElementGuid>04ce037f-a61e-4671-a0eb-8041e90080ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/div/a/span</value>
+      <webElementGuid>1c002c4e-bd1c-4067-8914-fe6bd5154421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>68142b05-744c-4314-bae4-cb61d3f2d077</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

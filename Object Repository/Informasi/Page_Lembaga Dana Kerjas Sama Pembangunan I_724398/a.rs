@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>2706b731-1f71-4a4a-b58a-e24505ac5de4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.circle-button-showfoto2 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div[2]/div/div/button/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>08ca404f-c231-4e70-a1b7-e3d63644e289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.twitter.com</value>
+      <webElementGuid>87c43a85-1e15-4945-8514-c295fcad7b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;outside&quot;]/div[@class=&quot;row align-items-center justify-content-center&quot;]/div[@class=&quot;col-4 col-sm-3&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-4 col-sm-3 mb-2 mb-sm-0 text-center&quot;]/button[@class=&quot;circle-button-showfoto2&quot;]/a[1]</value>
+      <webElementGuid>a4b829d5-8885-4997-858a-2855092da88b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div[2]/div/div/button/a</value>
+      <webElementGuid>f35f6ea1-28f9-4fc8-9f74-797cc7d4f3c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia dikenal sebagai salah satu negara'])[1]/following::a[2]</value>
+      <webElementGuid>0ae20ca0-20e1-4d5d-97ec-286f480a9017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::a[3]</value>
+      <webElementGuid>d0cb0757-eb5f-4c46-a7c8-83fd6fab0ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prasyarat'])[1]/preceding::a[4]</value>
+      <webElementGuid>430047c3-e995-447b-b58e-1969037698af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.twitter.com')]</value>
+      <webElementGuid>4f863a20-8667-4090-b5b4-bbfbde7b6962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/a</value>
+      <webElementGuid>34e80413-6608-401b-90ca-8039e8e2cf85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.twitter.com']</value>
+      <webElementGuid>629b6858-ff4c-4e19-a911-ecac71d5aa28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

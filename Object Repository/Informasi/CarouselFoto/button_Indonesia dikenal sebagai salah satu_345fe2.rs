@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Indonesia dikenal sebagai salah satu_345fe2</name>
+   <tag></tag>
+   <elementGuidId>908ca685-c9f1-40f5-93e1-5d454e54b97f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.circle-button-showfoto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>30637a9a-57d8-4871-a4b9-a9cf421985bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>circle-button-showfoto</value>
+      <webElementGuid>af97bd7f-3613-43e9-b0b8-608e64042f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;outside&quot;]/div[@class=&quot;row align-items-center justify-content-center&quot;]/div[@class=&quot;col-5 col-sm-5 text-center mb-3 mb-sm-0&quot;]/button[@class=&quot;circle-button-showfoto&quot;]</value>
+      <webElementGuid>7a546280-69c3-4371-b331-39b5de559370</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/button</value>
+      <webElementGuid>bbac4040-b079-4ec3-a372-68a99f1ed180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia dikenal sebagai salah satu negara'])[1]/following::button[1]</value>
+      <webElementGuid>8f5a7295-a99f-4b71-89d2-8f0ace33ba4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::button[4]</value>
+      <webElementGuid>4a122720-264f-43fc-b5cc-16f0ccdef50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prasyarat'])[1]/preceding::button[4]</value>
+      <webElementGuid>04d821ce-9056-43b9-835c-1c161ab81902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>2fd81600-0d7d-4410-bdba-7f0222cda3e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

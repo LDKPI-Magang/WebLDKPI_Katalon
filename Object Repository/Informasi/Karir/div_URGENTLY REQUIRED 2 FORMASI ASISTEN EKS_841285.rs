@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_URGENTLY REQUIRED 2 FORMASI ASISTEN EKS_841285</name>
+   <tag></tag>
+   <elementGuidId>33de6ae1-8a72-479a-a758-f5a1712d42c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-title-publication</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b098cda3-fbee-492a-b78a-f634693ca61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title-publication</value>
+      <webElementGuid>dc52f793-07d7-4d5a-ac12-c70d1e7b2931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[URGENTLY REQUIRED] 2 FORMASI ASISTEN EKSEKUTIF DI LDKPI</value>
+      <webElementGuid>7520cfa6-c72f-4818-aae7-dffe5ffdb183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[2]/div[@class=&quot;card-publication-karir&quot;]/a[@class=&quot;read-more-button&quot;]/div[@class=&quot;card-title-publication&quot;]</value>
+      <webElementGuid>16c01ffb-bfef-4f41-8a72-43196b180fa1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/a/div</value>
+      <webElementGuid>5ebe709e-336a-41d4-9227-8c874d2e395f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karir'])[3]/following::div[3]</value>
+      <webElementGuid>867489b7-b9a0-4f50-8dd4-e3b2af85da03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karir'])[2]/following::div[3]</value>
+      <webElementGuid>75726824-3b56-492d-a6ed-1453bede3fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(current)'])[1]/preceding::div[3]</value>
+      <webElementGuid>eea5e994-1d89-46c2-967f-3fd085d4373c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::div[4]</value>
+      <webElementGuid>a947f3f9-6a29-429e-9120-b931d3975328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[URGENTLY REQUIRED] 2 FORMASI ASISTEN EKSEKUTIF DI LDKPI']/parent::*</value>
+      <webElementGuid>bc4b472e-e9dc-4d29-bf02-2b3dd677dff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div</value>
+      <webElementGuid>e092efce-6af1-4a89-9981-d7123a118922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '[URGENTLY REQUIRED] 2 FORMASI ASISTEN EKSEKUTIF DI LDKPI' or . = '[URGENTLY REQUIRED] 2 FORMASI ASISTEN EKSEKUTIF DI LDKPI')]</value>
+      <webElementGuid>6d3da759-da3a-4b92-a2d1-af2c11ad033c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
