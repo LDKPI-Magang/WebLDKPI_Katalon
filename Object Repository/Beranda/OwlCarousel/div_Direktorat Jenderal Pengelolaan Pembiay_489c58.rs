@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Direktorat Jenderal Pengelolaan Pembiay_489c58</name>
+   <tag></tag>
+   <elementGuidId>ee5d0203-a64a-4b9b-8400-c7bb7cc09ac9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[6]/div/div/div[15]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37a20649-0000-4299-8d2b-4d5a1921711c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>square</value>
+      <webElementGuid>ff9d0cb7-db79-409a-b66e-70ce28a77dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Direktorat Jenderal Pengelolaan Pembiayaan dan Risiko</value>
+      <webElementGuid>857ee948-e19f-4b98-a0c0-44009b3d63ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex justify-content-center&quot;]/div[@class=&quot;owl-carousel owl-theme owl-loaded owl-drag&quot;]/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/a[1]/div[@class=&quot;square&quot;]</value>
+      <webElementGuid>8697c828-d455-4f3f-9091-9cd874230c77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[6]/div/div/div[15]/a/div</value>
+      <webElementGuid>f1bdb9e6-945c-46f0-bf20-da66e064e01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direktorat Jenderal Perimbangan Keuangan'])[2]/following::div[2]</value>
+      <webElementGuid>a043dd89-d86f-4d50-ba8b-368ab96a488d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direktorat Jenderal Kekayaan Negara'])[2]/following::div[4]</value>
+      <webElementGuid>d0692c99-0284-4a66-9ba7-f1555118eb7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Badan Kebijakan Fiskal'])[2]/preceding::div[1]</value>
+      <webElementGuid>1943ba31-0b04-4597-a108-df3f143f0e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/a/div</value>
+      <webElementGuid>68c4b316-12e3-4124-be56-28564356e168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Direktorat Jenderal Pengelolaan Pembiayaan dan Risiko' or . = 'Direktorat Jenderal Pengelolaan Pembiayaan dan Risiko')]</value>
+      <webElementGuid>633c2b48-f373-405f-a8db-f94df2af79d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

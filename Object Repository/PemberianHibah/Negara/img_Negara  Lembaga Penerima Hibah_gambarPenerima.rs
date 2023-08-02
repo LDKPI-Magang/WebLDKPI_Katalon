@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Negara  Lembaga Penerima Hibah_gambarPenerima</name>
+   <tag></tag>
+   <elementGuidId>e713f561-1fde-4c9d-b43d-a200cb4b0486</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.gambarPenerima</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b347e356-0d97-4f5a-b122-aabb9c4d669b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://10.201.79.218:1337/uploads/FIJI_156e18b515.png</value>
+      <webElementGuid>94b3a8b0-0ead-4104-9f71-bee1ff003b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Gambar 1</value>
+      <webElementGuid>81435bee-d9de-4594-8a03-98a8d2a4b7d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gambarPenerima</value>
+      <webElementGuid>6a9e42f2-84fe-4b2a-b153-e827d5201355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[2]/div[@class=&quot;px-4 pt-4&quot;]/div[1]/div[@class=&quot;tampilan-container&quot;]/div[1]/div[@class=&quot;gambar-row&quot;]/div[@class=&quot;gambar-container&quot;]/img[@class=&quot;gambarPenerima&quot;]</value>
+      <webElementGuid>8e804810-36bb-41b4-b2af-02c3f69f5b5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/div/div/div/img</value>
+      <webElementGuid>d6dbd7b9-3a64-46a9-b7f1-55acb48cde40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Gambar 1']</value>
+      <webElementGuid>084de444-2ce9-45dc-b25e-a5e8a1f7addb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/img</value>
+      <webElementGuid>93aafa6e-f021-463c-99b1-3f2415d2d3b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://10.201.79.218:1337/uploads/FIJI_156e18b515.png' and @alt = 'Gambar 1']</value>
+      <webElementGuid>1734c012-7950-4f7d-955b-e18ec617189e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

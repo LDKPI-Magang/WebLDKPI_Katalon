@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Direktorat Jenderal Bea dan Cukai</name>
+   <tag></tag>
+   <elementGuidId>1e2bf46c-79cf-4d11-8d87-450158a8d5fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[6]/div/div/div[11]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ebcc3775-2788-4af2-904a-d5bb4b296235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>square</value>
+      <webElementGuid>e4eef514-a4ce-4b4d-99e6-4d544817f8f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Direktorat Jenderal Bea dan Cukai</value>
+      <webElementGuid>b4c0aaa5-eaa2-4e98-b4fc-07986a406e50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex justify-content-center&quot;]/div[@class=&quot;owl-carousel owl-theme owl-loaded owl-drag&quot;]/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/a[1]/div[@class=&quot;square&quot;]</value>
+      <webElementGuid>b08f2604-1c9f-4a8d-98d8-fb5d326d86c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[6]/div/div/div[11]/a/div</value>
+      <webElementGuid>158b76ac-b36a-4e1b-a9ee-20fc471727b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direktorat Jenderal Pajak'])[1]/following::div[2]</value>
+      <webElementGuid>01181418-3914-4bbf-a42a-e6fb382d5393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direktorat Jenderal Anggaran'])[1]/following::div[4]</value>
+      <webElementGuid>c22966db-b240-460c-ac79-dfb08510278e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direktorat Jenderal Perbendaharaan'])[2]/preceding::div[1]</value>
+      <webElementGuid>35d8e317-a723-4307-9df6-09e433f7bc00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/a/div</value>
+      <webElementGuid>0857e372-b93b-4c04-99e5-094946535ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Direktorat Jenderal Bea dan Cukai' or . = 'Direktorat Jenderal Bea dan Cukai')]</value>
+      <webElementGuid>7fb6bb77-e267-48bb-8698-e6f6db9f5d8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

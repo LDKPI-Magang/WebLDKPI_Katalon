@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Inspektorat Jenderal</name>
+   <tag></tag>
+   <elementGuidId>0de20cd8-6f4d-43f8-b9ea-2ae7e8a1e6dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[6]/div/div/div[19]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8414a51f-5328-4e28-a1be-6280ee46be91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>square</value>
+      <webElementGuid>982e00d0-8f93-4525-b65b-37e6a31948b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inspektorat Jenderal</value>
+      <webElementGuid>9fcd0266-ef79-4490-8bfe-7a035003a7bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex justify-content-center&quot;]/div[@class=&quot;owl-carousel owl-theme owl-loaded owl-drag&quot;]/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item cloned active&quot;]/a[1]/div[@class=&quot;square&quot;]</value>
+      <webElementGuid>318f3c3f-ed06-46f9-9360-1ccb3e9e5580</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[6]/div/div/div[19]/a/div</value>
+      <webElementGuid>61093ab3-3ab2-451a-97bd-b763a18d7795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sekretariat Jenderal'])[2]/following::div[2]</value>
+      <webElementGuid>8d28f2e4-795a-4cec-aa2b-41c5987128d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Badan Pendidikan dan Pelatihan Keuanganl'])[2]/following::div[4]</value>
+      <webElementGuid>241657a6-4964-4c92-8f57-6b2b41d876b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direktorat Jenderal Anggaran'])[2]/preceding::div[1]</value>
+      <webElementGuid>7524b8c4-352e-492f-b927-5948d4fd8b1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/a/div</value>
+      <webElementGuid>145a37f7-a820-42f2-b566-51e3c5be2433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Inspektorat Jenderal' or . = 'Inspektorat Jenderal')]</value>
+      <webElementGuid>395de1dc-5bfa-4786-9772-9b2873cbe9cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

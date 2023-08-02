@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LDKPI Menentang Keras Segala Bentuk Pembe_279bcb</name>
+   <tag></tag>
+   <elementGuidId>f2c45058-c8c5-48b8-a26e-5dff4979e27a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[4]/div[2]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>774fada4-4b6a-4230-88f8-30c56225b05e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>marquee-link</value>
+      <webElementGuid>0a3e7b88-135d-4d83-9f97-6a0cf75d9a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ldkpi.kemenkeu.go.id/post/ldkpi-menentang-keras-segala-bentuk-pemberian-berupa-uang,-barang-dan-fasilitas-dalam-setiap-layanan-kami.</value>
+      <webElementGuid>84bcee30-d37a-48eb-9ead-4be42dfa5b70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>5f25adb7-6525-469b-943f-e0c1873ff6ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LDKPI Menentang Keras Segala Bentuk Pemberian Berupa Uang, Barang dan Fasilitas Dalam Setiap Layanan Kami</value>
+      <webElementGuid>b4ad03b9-3903-40d0-a4f8-7e3380f52841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex justify-content-center&quot;]/div[@class=&quot;container-hibah mt-3&quot;]/div[@class=&quot;marquee-container&quot;]/div[@class=&quot;marquee-content&quot;]/a[@class=&quot;marquee-link&quot;]</value>
+      <webElementGuid>3d1f31bb-f965-4ade-827d-ae72c0ca9c55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[4]/div[2]/div/a[2]</value>
+      <webElementGuid>896b73d5-4e2f-47dd-8e13-a7e9ac080bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'LDKPI Menentang Keras Segala Bentuk Pemberian Berupa Uang, Barang dan Fasilitas Dalam Setiap Layanan Kami')]</value>
+      <webElementGuid>c995132b-63fe-42e2-9e76-3cf9cfca52d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LDKPI Meraih Opini Wajar Tanpa Pengecualian'])[1]/following::a[1]</value>
+      <webElementGuid>f9adef0f-c5d5-4a95-8ddd-b075fb0ab103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebaran Realisasi Hibah'])[1]/following::a[2]</value>
+      <webElementGuid>f9d69942-a4a3-4b0f-9509-e67f5333c6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YOUTUBE'])[1]/preceding::a[1]</value>
+      <webElementGuid>576a4065-f192-4938-8a9e-4b85986875bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direktorat Jenderal Perbendaharaan'])[1]/preceding::a[7]</value>
+      <webElementGuid>58689706-405d-410f-9931-3d2858260eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LDKPI Menentang Keras Segala Bentuk Pemberian Berupa Uang, Barang dan Fasilitas Dalam Setiap Layanan Kami']/parent::*</value>
+      <webElementGuid>354ad0e9-fbc7-4f1d-88eb-6a59a0d79baf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ldkpi.kemenkeu.go.id/post/ldkpi-menentang-keras-segala-bentuk-pemberian-berupa-uang,-barang-dan-fasilitas-dalam-setiap-layanan-kami.')]</value>
+      <webElementGuid>47e0aa02-f9ec-4fe3-ba60-767b852cc3fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>dd6b4017-6418-4f03-946a-6a96ec7d98fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ldkpi.kemenkeu.go.id/post/ldkpi-menentang-keras-segala-bentuk-pemberian-berupa-uang,-barang-dan-fasilitas-dalam-setiap-layanan-kami.' and (text() = 'LDKPI Menentang Keras Segala Bentuk Pemberian Berupa Uang, Barang dan Fasilitas Dalam Setiap Layanan Kami' or . = 'LDKPI Menentang Keras Segala Bentuk Pemberian Berupa Uang, Barang dan Fasilitas Dalam Setiap Layanan Kami')]</value>
+      <webElementGuid>94056f4e-cf64-4d8d-8d2c-55741345954f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Toggle navigation_img-responsive hidden_ebcc28</name>
+   <tag></tag>
+   <elementGuidId>b301a129-1a0a-49df-8980-c681f6323fd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-responsive.hidden-navbar-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://www.lapor.go.id/themes/lapor/assets/images/logo-white.png')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>34e55cb1-89cb-4aaf-b082-9a60736fb7cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.lapor.go.id/themes/lapor/assets/images/logo-white.png</value>
+      <webElementGuid>8b983be5-9337-4bb5-976f-29813490c1ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive hidden-navbar-default</value>
+      <webElementGuid>9dd212c1-d7d3-435a-85b9-5bf5a5476095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-home pd-t-0&quot;]/header[@class=&quot;navbar-fixed-top navbar-inverse headroom headroom--top headroom--not-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;navbar-header&quot;]/a[@class=&quot;navbar-brand&quot;]/img[@class=&quot;img-responsive hidden-navbar-default&quot;]</value>
+      <webElementGuid>f6797f09-6788-4ddf-a855-a664ed3b8b8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://www.lapor.go.id/themes/lapor/assets/images/logo-white.png')]</value>
+      <webElementGuid>074504ac-ac8b-4961-856f-147c1bea288b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[2]</value>
+      <webElementGuid>a0b690f0-6f9d-4a62-9b44-95af83f3beb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.lapor.go.id/themes/lapor/assets/images/logo-white.png']</value>
+      <webElementGuid>0b71fdc8-428a-4e43-8071-81816eacd4a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

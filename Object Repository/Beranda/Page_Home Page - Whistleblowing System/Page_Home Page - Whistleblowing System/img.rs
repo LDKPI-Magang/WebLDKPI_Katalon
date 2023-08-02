@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>3eefef03-40b5-498a-9b70-71fcd9011cef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.logo-lg.ng-binding > img[alt=&quot;kemenkeu&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@alt='kemenkeu'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9544cf00-f980-49f4-bfc0-fb7e2cbf14d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/Content/images/logos/kemenkeu.png</value>
+      <webElementGuid>8204d8dc-ce33-4507-8357-2a8bc891c292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>kemenkeu</value>
+      <webElementGuid>1da6e23c-53ea-4370-90d2-f6e73bc2973f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths ng-scope&quot;]/body[@class=&quot;hold-transition skin-blue layout-top-nav&quot;]/div[@class=&quot;wrapper&quot;]/header[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-static-top&quot;]/div[@class=&quot;navbar-header&quot;]/a[@class=&quot;logo navbar-brand&quot;]/span[@class=&quot;logo-lg ng-binding&quot;]/img[1]</value>
+      <webElementGuid>5acd85e0-d0bd-4479-88d1-d624ac9c1fd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='kemenkeu'])[2]</value>
+      <webElementGuid>a0f10e7e-c92a-4997-9566-cb1ca6c1cad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/img</value>
+      <webElementGuid>cf11cc92-4709-466b-a382-269f83ec52bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/Content/images/logos/kemenkeu.png' and @alt = 'kemenkeu']</value>
+      <webElementGuid>fb90fbda-1623-4404-a352-2eab94d6886d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

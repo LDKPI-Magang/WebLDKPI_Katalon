@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Penerima Hibah_px-3</name>
+   <tag></tag>
+   <elementGuidId>d3c74ad5-4ab2-443f-948f-efdf3747c9d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.px-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fdc8149d-dc6d-485b-90d7-9e8ed47b6905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://10.201.79.218:1337/uploads/sebaran_realisasi_hibah_b7b8ce61b5.png</value>
+      <webElementGuid>a64517b8-b731-4213-aec3-70cacd598058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Gambar Layanan PPID</value>
+      <webElementGuid>6847af01-f4f8-481c-854a-12d855cf1273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-3</value>
+      <webElementGuid>7a265e95-b48d-4508-9c19-3a5b34efd795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[2]/div[@class=&quot;px-4 pt-4&quot;]/div[1]/img[@class=&quot;px-3&quot;]</value>
+      <webElementGuid>588fa7fd-d192-4896-ba12-cc59ed39926c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/img</value>
+      <webElementGuid>27711988-cdb3-40c8-af79-a169c741fe2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Gambar Layanan PPID']</value>
+      <webElementGuid>bc7f5485-f95b-413a-a97e-05ae3b7e6e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>365a6923-8b6e-4cf2-b8d4-295f82f72fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://10.201.79.218:1337/uploads/sebaran_realisasi_hibah_b7b8ce61b5.png' and @alt = 'Gambar Layanan PPID']</value>
+      <webElementGuid>f4ee5f33-d80c-43b9-b582-ce55dbaef978</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

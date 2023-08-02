@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Penerima Hibah</name>
+   <tag></tag>
+   <elementGuidId>a2907dae-3c0c-45e5-93f9-a58b86dcb2ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/div[2]/div[2]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>af237035-ce5c-4074-aa07-d8d0d6b20105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center dropdown-item link-style  dropdown-item</value>
+      <webElementGuid>3c4c09b4-0836-4bf5-853d-472c8956485e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/hibah/penerimaHibah</value>
+      <webElementGuid>6ba9de0c-0ab6-4b15-b2c2-361d9bbf2802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penerima Hibah</value>
+      <webElementGuid>5b8ebea3-0422-450f-9239-8d173f69f687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sticky-top&quot;]/nav[@class=&quot;navbar d-flex justify-content-between py-3&quot;]/div[@class=&quot;nav-link-container&quot;]/div[@class=&quot;link-style nav-item show dropdown&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;d-flex align-items-center dropdown-item link-style  dropdown-item&quot;]</value>
+      <webElementGuid>91dae16e-60d6-42bf-bb55-bb77f3d9b855</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav/div[2]/div[2]/div/a[2]</value>
+      <webElementGuid>f262385b-817c-4a36-9758-4fbc411a3a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Penerima Hibah')]</value>
+      <webElementGuid>fba14568-6032-4c5a-ab20-39636cbc0c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses Bisnis Pemberian Hibah'])[1]/following::a[1]</value>
+      <webElementGuid>ce249b69-0743-42bd-b52d-8ce719aa7ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/following::a[4]</value>
+      <webElementGuid>97ca54b2-bbd9-458f-bfb6-757e1119744e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/preceding::a[1]</value>
+      <webElementGuid>80b1a304-6037-4400-9285-68d03380ca37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[2]/preceding::a[3]</value>
+      <webElementGuid>d20c7bb4-4304-453a-8b0e-228f73a3a6b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Penerima Hibah']/parent::*</value>
+      <webElementGuid>583c995a-17ff-4c63-b58f-103e95c84860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/hibah/penerimaHibah')]</value>
+      <webElementGuid>45d0df02-2e5f-4941-998c-949a6a74eeb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>99b4b273-5721-45ff-89f3-cd3b4b7a5c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/hibah/penerimaHibah' and (text() = 'Penerima Hibah' or . = 'Penerima Hibah')]</value>
+      <webElementGuid>62d07b40-90eb-43d0-a5ca-3327c37eef68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

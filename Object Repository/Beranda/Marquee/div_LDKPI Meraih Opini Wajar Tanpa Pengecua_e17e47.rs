@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LDKPI Meraih Opini Wajar Tanpa Pengecua_e17e47</name>
+   <tag></tag>
+   <elementGuidId>b0bcc53c-961b-4c4d-a4b2-aed279380b31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.marquee-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[4]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>643bc32f-c1af-4f16-9aea-57d88c86481e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>marquee-content</value>
+      <webElementGuid>a57f6952-b947-4564-9178-8e23a77e8a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LDKPI Meraih Opini Wajar Tanpa PengecualianLDKPI Menentang Keras Segala Bentuk Pemberian Berupa Uang, Barang dan Fasilitas Dalam Setiap Layanan KamiYOUTUBE</value>
+      <webElementGuid>ba6ea497-6b04-4a38-ae7b-b4a31a767040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex justify-content-center&quot;]/div[@class=&quot;container-hibah mt-3&quot;]/div[@class=&quot;marquee-container&quot;]/div[@class=&quot;marquee-content&quot;]</value>
+      <webElementGuid>8a426b5d-af7f-4ac4-aa41-37c5b78856c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[4]/div[2]/div</value>
+      <webElementGuid>ff61a851-485a-4fe2-a0f8-3123461d53a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebaran Realisasi Hibah'])[1]/following::div[3]</value>
+      <webElementGuid>27b2d250-bb25-4ec7-b6e6-aadc13fa5a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil LDKPI'])[1]/following::div[7]</value>
+      <webElementGuid>8d817361-07c9-4634-b7dc-4f8b1f8eb9ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>8275d40a-c71d-47b9-b1c9-0e1a918b081d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LDKPI Meraih Opini Wajar Tanpa PengecualianLDKPI Menentang Keras Segala Bentuk Pemberian Berupa Uang, Barang dan Fasilitas Dalam Setiap Layanan KamiYOUTUBE' or . = 'LDKPI Meraih Opini Wajar Tanpa PengecualianLDKPI Menentang Keras Segala Bentuk Pemberian Berupa Uang, Barang dan Fasilitas Dalam Setiap Layanan KamiYOUTUBE')]</value>
+      <webElementGuid>efb16426-8245-4c1d-b035-cd1e47002a15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

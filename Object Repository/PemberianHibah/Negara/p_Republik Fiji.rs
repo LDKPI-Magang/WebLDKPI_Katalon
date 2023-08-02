@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Republik Fiji</name>
+   <tag></tag>
+   <elementGuidId>7a3740a2-c811-48aa-8c8e-2d91eeb5ce87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.gambar-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div/div/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5137c66e-7b76-4660-8114-38a03c48f719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gambar-title</value>
+      <webElementGuid>a3d974aa-7c5a-4164-b359-6538f6ee6b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Republik Fiji</value>
+      <webElementGuid>406bed58-e303-480f-bf87-5186a83961a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[2]/div[@class=&quot;px-4 pt-4&quot;]/div[1]/div[@class=&quot;tampilan-container&quot;]/div[1]/div[@class=&quot;gambar-row&quot;]/div[@class=&quot;gambar-container&quot;]/div[@class=&quot;gambar-overlay&quot;]/p[@class=&quot;gambar-title&quot;]</value>
+      <webElementGuid>1f274528-db4e-4c11-a830-34e84c5a4ac5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/div/div/div/div/p</value>
+      <webElementGuid>3c6b11d8-c35d-4cd4-a3d4-0b4e4a27e4c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Negara / Lembaga Penerima Hibah'])[1]/following::p[1]</value>
+      <webElementGuid>2b03dabf-da5f-4eb1-94cb-c58f3cee3b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penerima Hibah'])[3]/following::p[1]</value>
+      <webElementGuid>3d3eb5ab-d63c-41b0-9143-911b7a54f69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::p[21]</value>
+      <webElementGuid>d75af1be-4a9f-4bce-ab79-6d8c0366e20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prasyarat'])[1]/preceding::p[21]</value>
+      <webElementGuid>62f3f452-656a-44a0-bd9b-ab289f245221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Republik Fiji']/parent::*</value>
+      <webElementGuid>7b5e8a61-3f37-4cee-9d2e-31b211733d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>4ce86526-1658-40f2-b7e3-70cec6e7549d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Republik Fiji' or . = 'Republik Fiji')]</value>
+      <webElementGuid>26e9e7fc-8c42-4d3b-b6fc-4c0260ba6e21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
