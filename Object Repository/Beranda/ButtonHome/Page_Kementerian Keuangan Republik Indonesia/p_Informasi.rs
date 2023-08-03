@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Informasi</name>
+   <tag></tag>
+   <elementGuidId>cc0c0480-b89e-4c8a-8ab8-d87ae2c7867e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.tw-text-headline.tw-text-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[12]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>33f98544-ebc8-49d3-bb5d-ad9a7e4864cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-text-headline tw-text-white</value>
+      <webElementGuid>81e44dca-42c7-4cc2-a24c-276c8c00a27e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Informasi</value>
+      <webElementGuid>504c658c-a7a5-4cf7-9023-ba5954099cd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/kem-main-layout[1]/div[@class=&quot;kem-layout&quot;]/div[@class=&quot;kem-layout__content-home&quot;]/kem-home[1]/div[@class=&quot;kem-home&quot;]/div[@class=&quot;kem-home__content tw-flex tw-flex-col&quot;]/div[@class=&quot;section kem-home__content-section2 tw-pb-8&quot;]/div[@class=&quot;kem-home__content-section2-wrapper container-xl&quot;]/div[@class=&quot;kem-home__content-section2-running-text kem-home__content-item&quot;]/kem-home-running-text[1]/div[@class=&quot;kem-home-running-text tw-flex row&quot;]/div[@class=&quot;kem-home-running-text__info col-xl-3&quot;]/p[@class=&quot;tw-text-headline tw-text-white&quot;]</value>
+      <webElementGuid>a97c90e6-edcb-47e3-adde-a89eca540ab0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[12]/following::p[1]</value>
+      <webElementGuid>3cd73645-f3c8-41ac-9f58-ccef0e3b2650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[12]/following::p[1]</value>
+      <webElementGuid>5a4f4b94-85a7-471e-a2fc-f80b32e90957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya #ORI023'])[1]/preceding::p[1]</value>
+      <webElementGuid>dc3367ab-a935-4b53-9cf8-9011b2e24b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SDSN UU Perpajakan 2023'])[1]/preceding::p[1]</value>
+      <webElementGuid>0c7dd7e6-605d-4d67-9fd7-a16053980364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Informasi']/parent::*</value>
+      <webElementGuid>aacda292-f20b-42b0-b130-c4ceeb45edbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kem-home-running-text/div/div/p</value>
+      <webElementGuid>23685455-08b9-4f05-93ba-e8628d4cc788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Informasi' or . = 'Informasi')]</value>
+      <webElementGuid>c01f8591-2548-4793-bddf-af65938dc55a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

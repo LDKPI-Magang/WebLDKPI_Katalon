@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC006_LaporanID</name>
+   <name>TC006_LaporannID</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a7166918-241d-4f3c-acfc-5454b5f060a1</testCaseGuid>
+   <testCaseGuid>4ecdd9d3-70ff-4fb2-98ce-033ed3b9caf0</testCaseGuid>
 </TestCaseEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_YOUTUBE_button-image</name>
+   <name>img_YOUTUBE_button-image_1</name>
    <tag></tag>
-   <elementGuidId>cd321246-53c5-491d-88c4-2b47cf9e782f</elementGuidId>
+   <elementGuidId>a167bb2d-6528-42f8-b328-fd73f075b211</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>img.button-image</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div[2]/div[5]/div/div/a/img</value>
+         <value>//div[@id='root']/div[2]/div[5]/div/div[2]/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>7c10026e-5b28-42c9-bc87-8852ff148496</webElementGuid>
+      <webElementGuid>c45205a7-c85c-4ce0-8b65-c73d674d7231</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/static/media/kemenkeu.4d938ab49a85ba2081fd.png</value>
-      <webElementGuid>56472713-9769-4906-9280-fa38ec631bd2</webElementGuid>
+      <value>/static/media/WB.98eed6248d06db212469.png</value>
+      <webElementGuid>809e371e-9562-4392-b3d4-9884cb2132e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>gm 1</value>
-      <webElementGuid>5008d402-bca0-41c5-9021-3f45352b9b49</webElementGuid>
+      <value>gm 2</value>
+      <webElementGuid>82701718-f81d-4822-bd5e-5291d72e0e97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button-image</value>
-      <webElementGuid>3934908d-5b75-4741-bb52-2cec611ba48f</webElementGuid>
+      <webElementGuid>efa9003c-9311-4044-b70c-f22427463e6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,38 +54,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex justify-content-center&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center content-square-home my-5&quot;]/div[@class=&quot;d-flex flex-wrap justify-content-center&quot;]/div[@class=&quot;col-lg-2 col-md-3 col-sm-4 col-6&quot;]/a[@class=&quot;btn btn-primary btn-sm square-button&quot;]/img[@class=&quot;button-image&quot;]</value>
-      <webElementGuid>22a9ed23-95a3-4508-b391-fd5e7f599d77</webElementGuid>
+      <webElementGuid>cf224495-c87b-4b89-bb94-aa853a28b044</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div[5]/div/div/a/img</value>
-      <webElementGuid>2a925e2d-4837-4dec-a2f9-9be0559b3b1b</webElementGuid>
+      <value>//div[@id='root']/div[2]/div[5]/div/div[2]/a/img</value>
+      <webElementGuid>3d7e83c9-c729-414f-9b66-107c30e17c8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='gm 1']</value>
-      <webElementGuid>3e4c5fc4-dc19-4dd6-a3d7-810c07579adc</webElementGuid>
+      <value>//img[@alt='gm 2']</value>
+      <webElementGuid>9b992fa9-9e03-445b-a913-663efa8d5d45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/a/img</value>
-      <webElementGuid>efd990eb-e5d6-4d30-a1df-3e5fcd7a8942</webElementGuid>
+      <value>//div[2]/a/img</value>
+      <webElementGuid>d7294200-8dab-4147-9100-b120987aef4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = '/static/media/kemenkeu.4d938ab49a85ba2081fd.png' and @alt = 'gm 1']</value>
-      <webElementGuid>ce6f73c8-273f-4e49-88d6-07ba46ace9b4</webElementGuid>
+      <value>//img[@src = '/static/media/WB.98eed6248d06db212469.png' and @alt = 'gm 2']</value>
+      <webElementGuid>72a6913a-20a7-47f1-828a-8b50dcd26255</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

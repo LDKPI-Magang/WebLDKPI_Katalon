@@ -10,47 +10,47 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>d7cdb1e9-42ef-4102-a444-a03617c59643</testSuiteGuid>
+   <testSuiteGuid>8e8041ac-2019-448c-b678-fc2849c5ef1f</testSuiteGuid>
    <testCaseLink>
-      <guid>605704ca-73e0-473b-8fdb-2857619b6db8</guid>
+      <guid>524cb6a5-c214-4653-9670-94b9805b8fcd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Beranda/TC001_CaroselHomeID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6ae712c4-3edd-42fb-9d7d-51b5ec157a7c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Beranda/TC002_LatestNewsID</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>654d30ef-f5ec-45fd-9eea-cbf83d55cb3c</guid>
+      <guid>8815dc19-31b1-4d7c-85ae-eac8ae540532</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Beranda/TC003_VideoID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c682c407-b12f-4b9c-b44c-76661159fcc4</guid>
+      <guid>a7ab7628-b20b-406d-9d63-231434ab920d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Beranda/TC004_MarqueeID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>3d27f8b8-ad2d-4a02-b80a-2925f55221bd</guid>
+      <guid>1fa8ee79-5eb6-4446-a8c7-eb5e1662ab75</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Beranda/TC006_LaporannID</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c63f4103-54ab-44dd-9b58-51bcca33c617</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Beranda/TC005_OwlHomeID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fb5f6c8a-4698-4a72-a8a7-7bddf1d3478a</guid>
+      <guid>1eada414-3f0f-4823-89ce-f59f77fcf441</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Beranda/TC006_LaporanID</testCaseId>
+      <testCaseId>Test Cases/Beranda/TC002_LatestNewsID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
