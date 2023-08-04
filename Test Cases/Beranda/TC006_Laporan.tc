@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC002_LatestNewsID</name>
+   <name>TC006_Laporan</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ed485e55-8c52-4a8c-9d2c-3a109c3580a8</testCaseGuid>
+   <testCaseGuid>4ecdd9d3-70ff-4fb2-98ce-033ed3b9caf0</testCaseGuid>
 </TestCaseEntity>

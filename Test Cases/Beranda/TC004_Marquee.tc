@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC001_CaroselHomeID</name>
+   <name>TC004_Marquee</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>21e6ec7b-a268-49f3-a6e1-7d85eec904ad</testCaseGuid>
+   <testCaseGuid>4a43cfa2-a953-4252-9734-dc07d8c53d8a</testCaseGuid>
 </TestCaseEntity>

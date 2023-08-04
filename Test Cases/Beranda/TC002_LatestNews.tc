@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC005_OwlHomeID</name>
+   <name>TC002_LatestNews</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0fb6936d-3b9c-43b5-8ff3-b2ccca715f43</testCaseGuid>
+   <testCaseGuid>ed485e55-8c52-4a8c-9d2c-3a109c3580a8</testCaseGuid>
 </TestCaseEntity>
